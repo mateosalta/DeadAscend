@@ -10,7 +10,6 @@ A hand-drawn, open source, point'n'click-like 2D adventure game written in Qt/QM
 
 ## Quick start
 
-[Black Grain Games](http://games.blackgrain.dk/) are providing pre-build, ad-based, mobile and tablet versions.
 
 [![OpenStore](https://open-store.io/badges/en_US.svg)](https://open-store.io/app/deadascend.mateo-salta)
 
@@ -21,7 +20,8 @@ A hand-drawn, open source, point'n'click-like 2D adventure game written in Qt/QM
 
    ```
    cd /path/to/projects
-   git clone https://github.com/Larpon/DeadAscend.git
+   git clone https://github.com/mateosalta/DeadAscend.git
+   git checkout ut
    ```
 
 
