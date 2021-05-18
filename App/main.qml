@@ -1,18 +1,18 @@
 import QtQuick 2.0
 // qmlimportscanner bug on iOS
-import QtQuick.Controls 1.4
+import QtQuick.Controls 2.0
 
 import Qak 1.0
 import QtFirebase 1.0
 
 import "qml"
 
-Application {
+ApplicationWindow {
     id: application
     title: qsTr('Dead Ascend (%1x%2)').arg(width).arg(height)
 
     visible: false
-
+    visibility: "FullScreen"
     width: 1100/1.2
     height: 660/1.2
 
@@ -25,14 +25,14 @@ Application {
         property alias py: application.y
         property alias w: application.width
         property alias h: application.height
-        property alias screenMode: application.screenMode
+      //  property alias screenMode: application.screenMode
     }
 
     Component.onDestruction: store.save()
 
     Component.onCompleted: {
         store.load()
-        application.screenMode = Qak.platform.isMobile ? 'full' : 'windowed'
+       // application.screenMode = 'full'
 
         if(App.dbg) {
             application.visible = true

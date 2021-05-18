@@ -13,9 +13,9 @@ int main(int argc, char *argv[])
     qmlRegisterType<LanguageSwitcher, 1>("LanguageSwitcher", 1, 0, "LanguageSwitcher");
 
     QGuiApplication app(argc, argv);
-    app.setOrganizationName("Black Grain");
-    app.setOrganizationDomain("blackgrain.dk");
-    app.setApplicationName("Dead Ascend");
+    //app.setOrganizationName("Black Grain");
+    //app.setOrganizationDomain("blackgrain.dk");
+    app.setApplicationName("deadascend.mateo-salta");
 
     #ifdef VERSION
     //app.setApplicationVersion(QString(VERSION));

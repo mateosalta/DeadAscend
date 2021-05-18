@@ -1,0 +1,10 @@
+{
+"template": "unconfined",
+        "policy_groups": [
+        "audio"
+    ],
+
+    "policy_version": 16.04
+}
+
+
