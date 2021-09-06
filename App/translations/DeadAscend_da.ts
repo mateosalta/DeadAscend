@@ -1212,7 +1212,7 @@ Fortsæt?</translation>
         <translation>Tryk en enkelt gang på genstandende&lt;br&gt;for at samle dem op</translation>
     </message>
     <message>
-        <source>Objects you have&lt;br&gt;picked up is in&lt;br&gt;your inventory...</source>
+        <source>Objects you have&lt;br&gt;picked up are in&lt;br&gt;your inventory...</source>
         <translation>Genstande du har&lt;br&gt;samlet op er i&lt;br&gt;din rygsæk...</translation>
     </message>
     <message>
