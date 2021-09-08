@@ -151,6 +151,30 @@ Rectangle {
                 text.opacity = 1
             }
         }
+        
+        PauseAnimation {
+            duration: 6000
+        }
+
+        ScriptAction {
+            script: {
+                text.opacity = 0
+            }
+        }
+
+        PauseAnimation {
+            duration: 2000
+        }
+
+        ScriptAction {
+            script: {
+                text.text = qsTr("
+                German translation<br>
+                Danfro
+                ")
+                text.opacity = 1
+            }
+        }
 
         PauseAnimation {
             duration: 6000

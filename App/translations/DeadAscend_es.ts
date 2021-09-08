@@ -4,1122 +4,893 @@
 <context>
     <name>0</name>
     <message>
-        <location filename="../qml/scenes/0.qml" line="30"/>
         <source>The room is pitch dark. You better find some light somewhere.</source>
-        <translation>Está muy oscuro. Más te vale encontrar luz</translation>
+        <translation type="vanished">Está muy oscuro. Más te vale encontrar luz</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/0.qml" line="30"/>
         <source>Maybe there&apos;s a switch in here somewhere?</source>
-        <translation>¿Habrá un enchufe por aquí?</translation>
+        <translation type="vanished">¿Habrá un enchufe por aquí?</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/0.qml" line="61"/>
         <source>Interesting surface</source>
-        <translation>Interesante superficie</translation>
+        <translation type="vanished">Interesante superficie</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/0.qml" line="62"/>
         <source>Nothing interesting here</source>
-        <translation>Nada interesante</translation>
+        <translation type="vanished">Nada interesante</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/0.qml" line="63"/>
         <source>Not of any use</source>
-        <translation>No sirve para nada</translation>
+        <translation type="vanished">No sirve para nada</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/0.qml" line="64"/>
         <source>A creepy room</source>
-        <translation>Una sala un tanto extraña</translation>
+        <translation type="vanished">Una sala un tanto extraña</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/0.qml" line="65"/>
         <source>A bit greased</source>
-        <translation>Está un poco grasiento</translation>
+        <translation type="vanished">Está un poco grasiento</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/0.qml" line="66"/>
         <source>Where is everybody?</source>
-        <translation>¿Dónde está todo el mundo?</translation>
+        <translation type="vanished">¿Dónde está todo el mundo?</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/0.qml" line="67"/>
         <source>There&apos;s sounds of mumbling zombies</source>
-        <translation>Se oyen zombis a lo lejos</translation>
+        <translation type="vanished">Se oyen zombis a lo lejos</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/0.qml" line="68"/>
         <source>Did you hear that?</source>
-        <translation>¿Has oído eso?</translation>
+        <translation type="vanished">¿Has oído eso?</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/0.qml" line="108"/>
         <source>Gravity forces the hatch to close again</source>
-        <translation>La gravedad hace que la trampilla se vuelva a cerrar</translation>
+        <translation type="vanished">La gravedad hace que la trampilla se vuelva a cerrar</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/0.qml" line="108"/>
         <source>Find a way to keep the hatch open</source>
-        <translation>Encuentra la forma de mantener la trampilla abierta</translation>
+        <translation type="vanished">Encuentra la forma de mantener la trampilla abierta</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/0.qml" line="135"/>
         <source>The bucket is not heavy enough to keep the hatch open. Make it heavier</source>
-        <translation>El cubo pesa poco para mantener la trampilla abierta. Tiene que pesar más</translation>
+        <translation type="vanished">El cubo pesa poco para mantener la trampilla abierta. Tiene que pesar más</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/0.qml" line="398"/>
         <source>The bucket is patched. No holes!</source>
-        <translation>El cubo está arreglado, ya no tiene agujeros</translation>
+        <translation type="vanished">El cubo está arreglado, ya no tiene agujeros</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/0.qml" line="408"/>
         <source>A bucket full of water. It&apos;s pretty heavy!</source>
-        <translation>Un cubo lleno de agua. ¡Pesa un montón!</translation>
+        <translation type="vanished">Un cubo lleno de agua. ¡Pesa un montón!</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/0.qml" line="487"/>
         <source>The flourescent lights humms faintly - casting a grim light in the room...</source>
-        <translation>El fluorescente titila ligeramente, desprende una luz débil...</translation>
+        <translation type="vanished">El fluorescente titila ligeramente, desprende una luz débil...</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/0.qml" line="487"/>
         <source>Some flies are having a party here as well</source>
-        <translation>Las moscas se lo están pasando genial</translation>
+        <translation type="vanished">Las moscas se lo están pasando genial</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/0.qml" line="529"/>
         <source>There&apos;s something small, round and red lying on the edge of the sleeve assembly</source>
-        <translation>Hay algo pequeño, redondo y rojo en el fondo de la alcantarilla</translation>
+        <translation type="vanished">Hay algo pequeño, redondo y rojo en el fondo de la alcantarilla</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/0.qml" line="529"/>
         <source>It&apos;s too far down to reach by hand</source>
-        <translation>Es imposible alcanzarlo con la mano</translation>
+        <translation type="vanished">Es imposible alcanzarlo con la mano</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/0.qml" line="531"/>
         <source>There&apos;s nothing more downthere</source>
-        <translation>No hay nada más ahí abajo</translation>
+        <translation type="vanished">No hay nada más ahí abajo</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/0.qml" line="551"/>
         <source>A nice red, round button</source>
-        <translation>Un bonito botón redondo y rojo</translation>
+        <translation type="vanished">Un bonito botón redondo y rojo</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/0.qml" line="560"/>
         <source>Got it! It&apos;s a red button!?</source>
-        <translation>¡Aquí está! ¿Es un botón rojo?</translation>
+        <translation type="vanished">¡Aquí está! ¿Es un botón rojo?</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/0.qml" line="765"/>
         <source>A hatch leading upstairs</source>
-        <translation>Esta trampilla lleva al piso de arriba</translation>
+        <translation type="vanished">Esta trampilla lleva al piso de arriba</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/0.qml" line="786"/>
         <source>It&apos;s too dark to do anything. Better find some light somewhere</source>
-        <translation>Está todo muy oscuro. Más te vale encontrar luz</translation>
+        <translation type="vanished">Está todo muy oscuro. Más te vale encontrar luz</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/0.qml" line="871"/>
         <source>Lights on</source>
-        <translation>Luz encendida</translation>
+        <translation type="vanished">Luz encendida</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/0.qml" line="875"/>
         <source>Lights out</source>
-        <translation>Luz apagada</translation>
+        <translation type="vanished">Luz apagada</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/0.qml" line="912"/>
         <source>There&apos;s a hole in the bucket. You need to patch the bucket somehow</source>
-        <translation>Hay un agujero en el cubo. Tienes que arreglarlo como puedas</translation>
+        <translation type="vanished">Hay un agujero en el cubo. Tienes que arreglarlo como puedas</translation>
     </message>
 </context>
 <context>
     <name>1</name>
     <message>
-        <location filename="../qml/scenes/1.qml" line="44"/>
         <source>Interesting surface</source>
-        <translation>Interesante superficie</translation>
+        <translation type="vanished">Interesante superficie</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/1.qml" line="45"/>
         <source>Not interesting</source>
-        <translation>Nada interesante</translation>
+        <translation type="vanished">Nada interesante</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/1.qml" line="46"/>
         <source>Not of any use</source>
-        <translation>No sirve para nada</translation>
+        <translation type="vanished">No sirve para nada</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/1.qml" line="47"/>
         <source>The room is very cold</source>
-        <translation>Hace frío en esta sala</translation>
+        <translation type="vanished">Hace frío en esta sala</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/1.qml" line="48"/>
         <source>Where is everybody?</source>
-        <translation>¿Dónde está todo el mundo?</translation>
+        <translation type="vanished">¿Dónde está todo el mundo?</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/1.qml" line="49"/>
         <source>There&apos;s sounds of mumbling zombies</source>
-        <translation>Se oyen zombis a lo lejos</translation>
+        <translation type="vanished">Se oyen zombis a lo lejos</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/1.qml" line="50"/>
         <source>Did you hear that?</source>
-        <translation>¿Has oído eso?</translation>
+        <translation type="vanished">¿Has oído eso?</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/1.qml" line="105"/>
         <source>Need something to reach the hole in the ceiling</source>
-        <translation>Necesitas algo para llegar al hueco que hay en el techo</translation>
+        <translation type="vanished">Necesitas algo para llegar al hueco que hay en el techo</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/1.qml" line="144"/>
         <source>Another rung in the rail!</source>
-        <translation>Otro peldaño de la escalera</translation>
+        <translation type="vanished">Otro peldaño de la escalera</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/1.qml" line="148"/>
         <source>One more rail should be put up. I think</source>
-        <translation>Creo que con otro peldaño sería suficiente</translation>
+        <translation type="vanished">Creo que con otro peldaño sería suficiente</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/1.qml" line="150"/>
         <source>This could work if there was something to attach to</source>
-        <translation>Podría funcionar si lo unes a algo</translation>
+        <translation type="vanished">Podría funcionar si lo unes a algo</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/1.qml" line="156"/>
         <source>YES! Finally we can proceed upwards</source>
-        <translation>¡Bien! Ya podemos subir</translation>
+        <translation type="vanished">¡Bien! Ya podemos subir</translation>
     </message>
 </context>
 <context>
     <name>2</name>
     <message>
-        <location filename="../qml/scenes/2.qml" line="50"/>
         <source>An empty syringe. Not very helpful when empty...</source>
-        <translation>Una jeringuilla vacía. No es muy útil si está vacía...</translation>
+        <translation type="vanished">Una jeringuilla vacía. No es muy útil si está vacía...</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/2.qml" line="85"/>
         <source>Not very interesting</source>
-        <translation>Nada intesante</translation>
+        <translation type="vanished">Nada intesante</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/2.qml" line="86"/>
         <source>Not of any use</source>
-        <translation>No sirve para nada</translation>
+        <translation type="vanished">No sirve para nada</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/2.qml" line="87"/>
         <source>It&apos;s cold in here</source>
-        <translation>Aquí hace frío</translation>
+        <translation type="vanished">Aquí hace frío</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/2.qml" line="88"/>
         <source>I wonder where everybody is?</source>
-        <translation>¿Dónde está todo el mundo?</translation>
+        <translation type="vanished">¿Dónde está todo el mundo?</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/2.qml" line="89"/>
         <source>There&apos;s faint sounds of mumbling zombies</source>
-        <translation>Se oyen zombis a lo lejos</translation>
+        <translation type="vanished">Se oyen zombis a lo lejos</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/2.qml" line="348"/>
-        <location filename="../qml/scenes/2.qml" line="359"/>
-        <location filename="../qml/scenes/2.qml" line="588"/>
-        <location filename="../qml/scenes/2.qml" line="613"/>
         <source>It seems like it need a fuse to work</source>
-        <translation>Parece que le falta un fusible</translation>
+        <translation type="vanished">Parece que le falta un fusible</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/2.qml" line="353"/>
         <source>Going up!</source>
-        <translation>¡Subiendo!</translation>
+        <translation type="vanished">¡Subiendo!</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/2.qml" line="363"/>
         <source>Going down!</source>
-        <translation>¡Bajando!</translation>
+        <translation type="vanished">¡Bajando!</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/2.qml" line="376"/>
         <source>This lift could get you further up. But it&apos;s not working?</source>
-        <translation>Podríamos subir en este montacargas. ¿No funciona?</translation>
+        <translation type="vanished">Podríamos subir en este montacargas. ¿No funciona?</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/2.qml" line="466"/>
         <source>It&apos;s hard to make out what is behind the wall</source>
-        <translation>Es difícil saber qué hay detrás de la pared</translation>
+        <translation type="vanished">Es difícil saber qué hay detrás de la pared</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/2.qml" line="488"/>
         <source>The lift must be on the other side of this wall</source>
-        <translation>El ascensor tiene que estar al otro lado de la pared</translation>
+        <translation type="vanished">El ascensor tiene que estar al otro lado de la pared</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/2.qml" line="558"/>
         <source>It fits perfectly!</source>
-        <translation>¡Encaja perfectamente!</translation>
+        <translation type="vanished">¡Encaja perfectamente!</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/2.qml" line="572"/>
         <source>It fits perfectly in the socket!</source>
-        <translation>¡Encaja perfectamente en el enchufe!</translation>
+        <translation type="vanished">¡Encaja perfectamente en el enchufe!</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/2.qml" line="596"/>
         <source>The lift is already up</source>
-        <translation>El montacargas ya está arriba</translation>
+        <translation type="vanished">El montacargas ya está arriba</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/2.qml" line="621"/>
         <source>The lift is already down</source>
-        <translation>El montacargas ya está abajo</translation>
+        <translation type="vanished">El montacargas ya está abajo</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/2.qml" line="687"/>
         <source>The cabinet door is locked. Cabinets always hold useful stuff!</source>
-        <translation>El botiquín está cerrado. Los botiquines siempre tienen cosas útiles</translation>
+        <translation type="vanished">El botiquín está cerrado. Los botiquines siempre tienen cosas útiles</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/2.qml" line="704"/>
         <source>A keyhole</source>
-        <translation>Una cerradura</translation>
+        <translation type="vanished">Una cerradura</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/2.qml" line="718"/>
         <source>It won&apos;t open the door...</source>
-        <translation>Así no vas a abrirlo...</translation>
+        <translation type="vanished">Así no vas a abrirlo...</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/2.qml" line="718"/>
         <source>Maybe try it with the hinge?</source>
-        <translation>¿Y si pruebas con la bisagra?</translation>
+        <translation type="vanished">¿Y si pruebas con la bisagra?</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/2.qml" line="764"/>
         <source>A hinge holding the door</source>
-        <translation>Hay una bisagra</translation>
+        <translation type="vanished">Hay una bisagra</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/2.qml" line="764"/>
         <source>If there&apos;s no keys to be found - maybe this can be removed somehow</source>
-        <translation>Si no encuentras la llave, quizás puedas quitarla de alguna forma</translation>
+        <translation type="vanished">Si no encuentras la llave, quizás puedas quitarla de alguna forma</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/2.qml" line="780"/>
-        <location filename="../qml/scenes/2.qml" line="799"/>
         <source>A mighty fine screw</source>
-        <translation>Eso sí que es un buen tornillo</translation>
+        <translation type="vanished">Eso sí que es un buen tornillo</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/2.qml" line="842"/>
         <source>That&apos;s %1 down!</source>
-        <translation>¡%1 fuera!</translation>
+        <translation type="vanished">¡%1 fuera!</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/2.qml" line="842"/>
         <source>one screw</source>
-        <translation>un tornillo</translation>
+        <translation type="vanished">un tornillo</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/2.qml" line="842"/>
         <source>both screws</source>
-        <translation>tornillos</translation>
+        <translation type="vanished">tornillos</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/2.qml" line="851"/>
         <source>Off you go hinge!</source>
-        <translation>¡Fuera bisagra!</translation>
+        <translation type="vanished">¡Fuera bisagra!</translation>
     </message>
 </context>
 <context>
     <name>3</name>
     <message>
-        <location filename="../qml/scenes/3.qml" line="84"/>
         <source>Nah. Not really interesting</source>
-        <translation>Bah, nada interesante</translation>
+        <translation type="vanished">Bah, nada interesante</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/3.qml" line="85"/>
         <source>Not of any use</source>
-        <translation>No sirve para nada</translation>
+        <translation type="vanished">No sirve para nada</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/3.qml" line="86"/>
         <source>It&apos;s actually a bit warm in here</source>
-        <translation>Hace un poco de calor aquí, ¿no?</translation>
+        <translation type="vanished">Hace un poco de calor aquí, ¿no?</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/3.qml" line="87"/>
         <source>The machines are humming quite a lot</source>
-        <translation>Las máquinas hacen bastante ruido</translation>
+        <translation type="vanished">Las máquinas hacen bastante ruido</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/3.qml" line="150"/>
         <source>It&apos;s passive...</source>
-        <translation>Está tranquilo...</translation>
+        <translation type="vanished">Está tranquilo...</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/3.qml" line="150"/>
         <source>Only a few live infected cells relieves some muscle ticks</source>
-        <translation>Las últimas células infectadas le provocan espasmos</translation>
+        <translation type="vanished">Las últimas células infectadas le provocan espasmos</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/3.qml" line="150"/>
         <source>You should take it out of it&apos;s missery</source>
-        <translation>Deberías acabar con su sufrimiento</translation>
+        <translation type="vanished">Deberías acabar con su sufrimiento</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/3.qml" line="167"/>
         <source>Straight in the head</source>
-        <translation>¡Toma! ¡En toda la cabeza!</translation>
+        <translation type="vanished">¡Toma! ¡En toda la cabeza!</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/3.qml" line="174"/>
         <source>It&apos;s a coin. With a very matte finish</source>
-        <translation>Una moneda con un acabado mate</translation>
+        <translation type="vanished">Una moneda con un acabado mate</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/3.qml" line="193"/>
-        <location filename="../qml/scenes/3.qml" line="687"/>
         <source>The hammer broke in two. No need to carry that around any more</source>
-        <translation>Se ha roto el martillo. Ya no vale la pena cargar con él</translation>
+        <translation type="vanished">Se ha roto el martillo. Ya no vale la pena cargar con él</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/3.qml" line="282"/>
         <source>He&apos;s dead Jim</source>
-        <translation>El muerto al hoyo y...</translation>
+        <translation type="vanished">El muerto al hoyo y...</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/3.qml" line="282"/>
         <source>... or as close as dead as zombies get</source>
-        <translation>... bueno, todo lo muerto que puede estar un zombi</translation>
+        <translation type="vanished">... bueno, todo lo muerto que puede estar un zombi</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/3.qml" line="300"/>
         <source>It&apos;s full of infested zombie blood</source>
-        <translation>Está lleno de sangre infectada de zombi</translation>
+        <translation type="vanished">Está lleno de sangre infectada de zombi</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/3.qml" line="306"/>
         <source>It&apos;s full of infested zombie blood now!</source>
-        <translation>Ahora está lleno de sangre infectada de zombi</translation>
+        <translation type="vanished">Ahora está lleno de sangre infectada de zombi</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/3.qml" line="373"/>
         <source>Going up!</source>
-        <translation>¡Subiendo!</translation>
+        <translation type="vanished">¡Subiendo!</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/3.qml" line="380"/>
         <source>Going down!</source>
-        <translation>¡Bajando!</translation>
+        <translation type="vanished">¡Bajando!</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/3.qml" line="587"/>
         <source>The little critter is really calm now. Eating away</source>
-        <translation>El bichejo está bastante tranquilo. Está comiendo</translation>
+        <translation type="vanished">El bichejo está bastante tranquilo. Está comiendo</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/3.qml" line="587"/>
         <source>Unfortunately it&apos;s too small to drive the treadmill upstairs</source>
-        <translation>Qué pena, es demasiado pequeño para mover la rueda que hay arriba</translation>
+        <translation type="vanished">Qué pena, es demasiado pequeño para mover la rueda que hay arriba</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/3.qml" line="590"/>
         <source>It&apos;s scared now the glass is smashed. Maybe it can be lured out of hiding</source>
-        <translation>Se ha asustado al romper el cristal. Intenta sacarlo de su escondite</translation>
+        <translation type="vanished">Se ha asustado al romper el cristal. Intenta sacarlo de su escondite</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/3.qml" line="592"/>
         <source>Such a cute little critter</source>
-        <translation>Qué bichejo tan mono</translation>
+        <translation type="vanished">Qué bichejo tan mono</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/3.qml" line="638"/>
         <source>... OK. So this is a zombie hamster. It looks pretty strong - but it&apos;s hideous</source>
-        <translation>... vale. Ahora es un hámster-zombi. Parece fuerte, pero es horroroso</translation>
+        <translation type="vanished">... vale. Ahora es un hámster-zombi. Parece fuerte, pero es horroroso</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/3.qml" line="642"/>
         <source>What. The...</source>
-        <translation>Qué co...</translation>
+        <translation type="vanished">Qué co...</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/3.qml" line="642"/>
         <source>...</source>
-        <translation>...</translation>
+        <translation type="vanished">...</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/3.qml" line="650"/>
         <source>Indeed you could inject him with something...</source>
-        <translation>Sí, igual puedes inyectarle algo...</translation>
+        <translation type="vanished">Sí, igual puedes inyectarle algo...</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/3.qml" line="650"/>
         <source>But what?</source>
-        <translation>Pero ¿el qué?</translation>
+        <translation type="vanished">Pero ¿el qué?</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/3.qml" line="668"/>
         <source>The hamster looks pretty scared</source>
-        <translation>Parece que el hámster está bastante asustado</translation>
+        <translation type="vanished">Parece que el hámster está bastante asustado</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/3.qml" line="827"/>
         <source>The drawing on the whiteboard is faded - but can still be made out</source>
-        <translation>El dibujo está medio borrado, pero todavía se ve algo</translation>
+        <translation type="vanished">El dibujo está medio borrado, pero todavía se ve algo</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/3.qml" line="827"/>
         <source>It looks like a sketch, depicting something involving a syringe and a hamster?</source>
-        <translation>Parecen garabatos acerca de una jeringuilla y un hámster</translation>
+        <translation type="vanished">Parecen garabatos acerca de una jeringuilla y un hámster</translation>
     </message>
 </context>
 <context>
     <name>4</name>
     <message>
-        <location filename="../qml/scenes/4.qml" line="78"/>
         <source>Nah. Not really interesting</source>
-        <translation>Bah, nada interesante</translation>
+        <translation type="vanished">Bah, nada interesante</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/4.qml" line="79"/>
         <source>Not of any use</source>
-        <translation>No sirve para nada</translation>
+        <translation type="vanished">No sirve para nada</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/4.qml" line="80"/>
         <source>It&apos;s actually a bit warm in here</source>
-        <translation>Hace un poco de calor aquí, ¿no?</translation>
+        <translation type="vanished">Hace un poco de calor aquí, ¿no?</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/4.qml" line="81"/>
         <source>There&apos;s almost too quiet...</source>
-        <translation>Todo está demasiado tranquilo</translation>
+        <translation type="vanished">Todo está demasiado tranquilo</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/4.qml" line="131"/>
-        <location filename="../qml/scenes/4.qml" line="401"/>
         <source>It&apos;s now connecting the treadmill with the battery - good thinking!</source>
-        <translation>Ahora la rueda y la batería están conectadas, ¡bien pensado!</translation>
+        <translation type="vanished">Ahora la rueda y la batería están conectadas, ¡bien pensado!</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/4.qml" line="163"/>
         <source>The elevator is now: Zombie Hamster Powered...</source>
-        <translation>Has zombi-hamsterizado el ascensor...</translation>
+        <translation type="vanished">Has zombi-hamsterizado el ascensor...</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/4.qml" line="163"/>
         <source>That&apos;s... really...</source>
-        <translation>Es... muy...</translation>
+        <translation type="vanished">Es... muy...</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/4.qml" line="163"/>
         <source>... really... weird</source>
-        <translation>... muy... raro</translation>
+        <translation type="vanished">... muy... raro</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/4.qml" line="165"/>
         <source>There should be a way to connect the treadmill to the motor somehow</source>
-        <translation>Tiene que haber una forma de conectar la rueda con el motor</translation>
+        <translation type="vanished">Tiene que haber una forma de conectar la rueda con el motor</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/4.qml" line="170"/>
         <source>Maybe this treadmill could actually power the elevator</source>
-        <translation>Puede que la rueda ponga el ascensor en marcha</translation>
+        <translation type="vanished">Puede que la rueda ponga el ascensor en marcha</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/4.qml" line="170"/>
         <source>It&apos;s just a matter of finding something powerfull enough to run it</source>
-        <translation>Es cuestión de encontrar algo con energía suficiente para hacerlo funcionar</translation>
+        <translation type="vanished">Es cuestión de encontrar algo con energía suficiente para hacerlo funcionar</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/4.qml" line="172"/>
         <source>It can&apos;t move with all this junk in front of it</source>
-        <translation>No se va a mover con tanto trasto de por medio</translation>
+        <translation type="vanished">No se va a mover con tanto trasto de por medio</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/4.qml" line="224"/>
         <source>It&apos;s stuck behind the popcorn machine</source>
-        <translation>Está atascado detrás de la máquina de palomitas</translation>
+        <translation type="vanished">Está atascado detrás de la máquina de palomitas</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/4.qml" line="239"/>
         <source>The wheels on this is rusted in place. The glass top is making it too heavy to move.</source>
-        <translation>Las ruedas están oxidadas. No se mueve, el cristal pesa demasiado</translation>
+        <translation type="vanished">Las ruedas están oxidadas. No se mueve, el cristal pesa demasiado</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/4.qml" line="255"/>
         <source>The skies are in the way</source>
         <extracomment>Skies the ones you put on and ski down a slope with :)</extracomment>
-        <translation>Los esquís están de por medio</translation>
+        <translation type="vanished">Los esquís están de por medio</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/4.qml" line="270"/>
         <source>The rocking horse is in the way</source>
-        <translation>El caballito está de por medio</translation>
+        <translation type="vanished">El caballito está de por medio</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/4.qml" line="285"/>
         <source>The beach ball is in the way</source>
-        <translation>El balón de playa está de por medio</translation>
+        <translation type="vanished">El balón de playa está de por medio</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/4.qml" line="373"/>
         <source>The elevator needs power to operate.</source>
-        <translation>El ascensor necesita energía para funcionar</translation>
+        <translation type="vanished">El ascensor necesita energía para funcionar</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/4.qml" line="424"/>
         <source>No need for more grain</source>
-        <translation>No necesitamos más pienso</translation>
+        <translation type="vanished">No necesitamos más pienso</translation>
     </message>
 </context>
 <context>
     <name>5</name>
     <message>
-        <location filename="../qml/scenes/5.qml" line="64"/>
         <source>Nah. Not really interesting</source>
-        <translation>Bah, nada interesante</translation>
+        <translation type="vanished">Bah, nada interesante</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/5.qml" line="65"/>
         <source>Not of any use</source>
-        <translation>No sirve para nada</translation>
+        <translation type="vanished">No sirve para nada</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/5.qml" line="66"/>
         <source>It&apos;s actually a bit warm in here</source>
-        <translation>Hace un poco de calor aquí, ¿no?</translation>
+        <translation type="vanished">Hace un poco de calor aquí, ¿no?</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/5.qml" line="67"/>
         <source>The machines are humming quite a lot - just like downstairs</source>
-        <translation>Las máquinas hacen bastante ruido, como en la planta de abajo</translation>
+        <translation type="vanished">Las máquinas hacen bastante ruido, como en la planta de abajo</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/5.qml" line="161"/>
-        <location filename="../qml/scenes/5.qml" line="185"/>
         <source>It&apos;s a fan pushing cool fresh air into the room</source>
-        <translation>Es un ventilador que refresca la sala</translation>
+        <translation type="vanished">Es un ventilador que refresca la sala</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/5.qml" line="376"/>
         <source>Maybe you should turn off the machinery first</source>
-        <translation>Deberías apagar las máquinas primero</translation>
+        <translation type="vanished">Deberías apagar las máquinas primero</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/5.qml" line="381"/>
         <source>It&apos;s already fully charged and ready to go</source>
-        <translation>Ya está cargada y lista para usar</translation>
+        <translation type="vanished">Ya está cargada y lista para usar</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/5.qml" line="522"/>
         <source>A half-charged fuel cell</source>
-        <translation>Una batería medio cargada</translation>
+        <translation type="vanished">Una batería medio cargada</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/5.qml" line="523"/>
         <source>It&apos;s charging...</source>
-        <translation>Se está cargando...</translation>
+        <translation type="vanished">Se está cargando...</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/5.qml" line="523"/>
         <source>...</source>
-        <translation>...</translation>
+        <translation type="vanished">...</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/5.qml" line="535"/>
         <source>The fuel cell has already finished charging</source>
-        <translation>La batería ya se ha cargado</translation>
+        <translation type="vanished">La batería ya se ha cargado</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/5.qml" line="552"/>
         <source>A fully charged fuel cell - ready to use</source>
-        <translation>Una batería totalmente cargada y lista para usar</translation>
+        <translation type="vanished">Una batería totalmente cargada y lista para usar</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/5.qml" line="555"/>
         <source>charged!</source>
-        <translation>¡Cargada!</translation>
+        <translation type="vanished">¡Cargada!</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/5.qml" line="646"/>
         <source>Hmm... This is not an easy task... </source>
-        <translation>Mmm... No es una tarea fácil...</translation>
+        <translation type="vanished">Mmm... No es una tarea fácil...</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/5.qml" line="647"/>
         <source>Some of these still need liquid in them</source>
-        <translation>Algunas todavía necesitan líquido</translation>
+        <translation type="vanished">Algunas todavía necesitan líquido</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/5.qml" line="647"/>
         <source>I think everything is ready</source>
-        <translation>Creo que está todo listo</translation>
+        <translation type="vanished">Creo que está todo listo</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/5.qml" line="647"/>
         <source>Something still need to be done here</source>
-        <translation>Aún queda algo por hacer</translation>
+        <translation type="vanished">Aún queda algo por hacer</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/5.qml" line="662"/>
         <source>Like the old saying goes...</source>
-        <translation>Como dice el refrán...</translation>
+        <translation type="vanished">Como dice el refrán...</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/5.qml" line="662"/>
         <source>if it ain&apos;t broken...</source>
-        <translation>Si funciona...</translation>
+        <translation type="vanished">Si funciona...</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/5.qml" line="662"/>
         <source>don&apos;t fix it!</source>
-        <translation>¡no lo arregles!</translation>
+        <translation type="vanished">¡no lo arregles!</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/5.qml" line="800"/>
         <source>Nice green glow. Everything seem to be ready</source>
-        <translation>Verde reluciente. Parece que está todo listo</translation>
+        <translation type="vanished">Verde reluciente. Parece que está todo listo</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/5.qml" line="802"/>
         <source>It&apos;s got a nice yellow tint to it. There&apos;s more work to be done here</source>
-        <translation>Color amarillo. Aún quedan cosas por hacer</translation>
+        <translation type="vanished">Color amarillo. Aún quedan cosas por hacer</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/5.qml" line="804"/>
         <source>It&apos;s red. Indicating that something is not in it&apos;s right state</source>
-        <translation>Rojo. Parece indicar que algo no va bien</translation>
+        <translation type="vanished">Rojo. Parece indicar que algo no va bien</translation>
     </message>
 </context>
 <context>
     <name>6</name>
     <message>
-        <location filename="../qml/scenes/6.qml" line="62"/>
         <source>green</source>
-        <translation>verde</translation>
+        <translation type="vanished">verde</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/6.qml" line="63"/>
         <source>red</source>
-        <translation>rojo</translation>
+        <translation type="vanished">rojo</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/6.qml" line="64"/>
         <source>blue</source>
-        <translation>azul</translation>
+        <translation type="vanished">azul</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/6.qml" line="65"/>
         <source>purple</source>
-        <translation>morado</translation>
+        <translation type="vanished">morado</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/6.qml" line="82"/>
         <source>Nah. Not really interesting</source>
-        <translation>Bah, nada interesante</translation>
+        <translation type="vanished">Bah, nada interesante</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/6.qml" line="83"/>
         <source>Not of any use</source>
-        <translation>No sirve para nada</translation>
+        <translation type="vanished">No sirve para nada</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/6.qml" line="84"/>
         <source>It&apos;s actually a bit warm in here</source>
-        <translation>Hace un poco de calor aquí, ¿no?</translation>
+        <translation type="vanished">Hace un poco de calor aquí, ¿no?</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/6.qml" line="169"/>
         <source>The door is locked...</source>
-        <translation>La puerta está cerrada...</translation>
+        <translation type="vanished">La puerta está cerrada...</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/6.qml" line="169"/>
         <source>The keypad to the right seem to be connected to the door</source>
-        <translation>Parece que el teclado de al lado está conectado a la puerta</translation>
+        <translation type="vanished">Parece que el teclado de al lado está conectado a la puerta</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/6.qml" line="196"/>
-        <location filename="../qml/scenes/6.qml" line="234"/>
-        <location filename="../qml/scenes/6.qml" line="272"/>
-        <location filename="../qml/scenes/6.qml" line="310"/>
         <source>There&apos;s already poured liquid in this</source>
-        <translation>Aquí ya hay líquido</translation>
+        <translation type="vanished">Aquí ya hay líquido</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/6.qml" line="203"/>
         <source>... better not put %1 liquid in a blue pipe</source>
-        <translation>... es mejor no echar líquido %1 en una tubería azul</translation>
+        <translation type="vanished">... es mejor no echar líquido %1 en una tubería azul</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/6.qml" line="210"/>
         <source>The liquid is poured in now</source>
-        <translation>Has echado el líquido</translation>
+        <translation type="vanished">Has echado el líquido</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/6.qml" line="241"/>
         <source>... better not put %1 liquid in a purple pipe</source>
-        <translation>... es mejor no echar líquido %1 en una tubería morada</translation>
+        <translation type="vanished">... es mejor no echar líquido %1 en una tubería morada</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/6.qml" line="248"/>
         <source>All the purple juicy stuff is poured in now</source>
-        <translation>Has echado todo el fluido morado</translation>
+        <translation type="vanished">Has echado todo el fluido morado</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/6.qml" line="279"/>
         <source>... better not put %1 liquid in a red-ish pipe</source>
-        <translation>... es mejor no echar líquido %1 en una tubería roja</translation>
+        <translation type="vanished">... es mejor no echar líquido %1 en una tubería roja</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/6.qml" line="286"/>
         <source>All the red goo is poured in now</source>
-        <translation>Has echado todo el mejunje rojo</translation>
+        <translation type="vanished">Has echado todo el mejunje rojo</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/6.qml" line="317"/>
         <source>... better not put %1 liquid in a green pipe</source>
-        <translation>... es mejor no echar líquido %1 en una tubería verde</translation>
+        <translation type="vanished">... es mejor no echar líquido %1 en una tubería verde</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/6.qml" line="324"/>
-        <location filename="../qml/scenes/6.qml" line="508"/>
-        <location filename="../qml/scenes/6.qml" line="750"/>
-        <location filename="../qml/scenes/6.qml" line="779"/>
         <source>...</source>
-        <translation>...</translation>
+        <translation type="vanished">...</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/6.qml" line="324"/>
         <source>All the contents are poured in</source>
-        <translation>Has echado todas las sustancias</translation>
+        <translation type="vanished">Has echado todas las sustancias</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/6.qml" line="426"/>
         <source>It&apos;s open!</source>
-        <translation>¡Está abierto!</translation>
+        <translation type="vanished">¡Está abierto!</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/6.qml" line="480"/>
         <source>A fancy colored keypad</source>
-        <translation>Un teclado muy moderno</translation>
+        <translation type="vanished">Un teclado muy moderno</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/6.qml" line="508"/>
         <source>not the right key combination</source>
-        <translation>No es la contraseña correcta</translation>
+        <translation type="vanished">No es la contraseña correcta</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/6.qml" line="542"/>
         <source>Open Sesame!</source>
-        <translation>¡Ábrete, Sésamo!</translation>
+        <translation type="vanished">¡Ábrete, Sésamo!</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/6.qml" line="544"/>
         <source>Green lights are good lights!</source>
-        <translation>¡La luz verde es una buena señal!</translation>
+        <translation type="vanished">¡La luz verde es una buena señal!</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/6.qml" line="756"/>
         <source>This must be the cable for the antenna</source>
-        <translation>Este tiene que ser el cable para la antena</translation>
+        <translation type="vanished">Este tiene que ser el cable para la antena</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/6.qml" line="756"/>
         <source>It leads to the roof</source>
-        <translation>Lleva a la azotea</translation>
+        <translation type="vanished">Lleva a la azotea</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/6.qml" line="763"/>
         <source>A fairly large bookcase. Very square</source>
-        <translation>Un estantería bastante grande. Muy cuadrada</translation>
+        <translation type="vanished">Un estantería bastante grande. Muy cuadrada</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/6.qml" line="778"/>
         <source>YES! THERE&apos;S OTHER SURVIVORS ON THE RADIO</source>
-        <translation>¡BIEN! OIGO A OTROS SUPERVIVIENTES POR LA RADIO</translation>
+        <translation type="vanished">¡BIEN! OIGO A OTROS SUPERVIVIENTES POR LA RADIO</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/6.qml" line="778"/>
         <source>HALLO!? CAN YOU HEAR ME!?</source>
-        <translation>¡HOLA! ¿ME OÍS?</translation>
+        <translation type="vanished">¡HOLA! ¿ME OÍS?</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/6.qml" line="778"/>
         <source>radio: *Loud and clear, over*</source>
-        <translation>Radio: *Alto y claro, cambio*</translation>
+        <translation type="vanished">Radio: *Alto y claro, cambio*</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/6.qml" line="779"/>
         <source>COME GET ME AT THE TOWER</source>
-        <translation>VENID A POR MÍ, ESTOY EN LA TORRE</translation>
+        <translation type="vanished">VENID A POR MÍ, ESTOY EN LA TORRE</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/6.qml" line="779"/>
         <source>radio: *We&apos;re sending a chopper, over*</source>
-        <translation>Radio: *Un helicóptero va para allá, cambio*</translation>
+        <translation type="vanished">Radio: *Un helicóptero va para allá, cambio*</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/6.qml" line="779"/>
         <source>AWESOME!, OVER!</source>
-        <translation>¡GENIAL, CAMBIO!</translation>
+        <translation type="vanished">¡GENIAL, CAMBIO!</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/6.qml" line="779"/>
         <source>Woohoo - they are coming for me!</source>
-        <translation>¡Yuju! ¡Vienen a rescatarme!</translation>
+        <translation type="vanished">¡Yuju! ¡Vienen a rescatarme!</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/6.qml" line="779"/>
         <source>I&apos;ll better hurry to the roof and wait for the chopper</source>
-        <translation>Más me vale subir corriendo a la azotea para esperar al helicóptero</translation>
+        <translation type="vanished">Más me vale subir corriendo a la azotea para esperar al helicóptero</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/6.qml" line="781"/>
         <source>There&apos;s only noise...</source>
-        <translation>Solo se oye ruido...</translation>
+        <translation type="vanished">Solo se oye ruido...</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/6.qml" line="781"/>
         <source>The indicator for &quot;LONG RANGE&quot; is off</source>
-        <translation>El indicador de cobertura está apagado</translation>
+        <translation type="vanished">El indicador de cobertura está apagado</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/6.qml" line="781"/>
         <source>You&apos;d need a powered antenna to call for help</source>
-        <translation>Necesitas conectar la antena para poder pedir ayuda</translation>
+        <translation type="vanished">Necesitas conectar la antena para poder pedir ayuda</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/6.qml" line="781"/>
         <source>More problems than solutions I guess</source>
-        <translation>Más problemas que soluciones, por lo que parece</translation>
+        <translation type="vanished">Más problemas que soluciones, por lo que parece</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/6.qml" line="783"/>
         <source>Help is on the way - I better get to the roof!</source>
-        <translation>La ayuda está en camino, ¡tengo que subir a la azotea!</translation>
+        <translation type="vanished">La ayuda está en camino, ¡tengo que subir a la azotea!</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/6.qml" line="790"/>
         <source>A fine lava lamp. It&apos;s not working</source>
-        <translation>Una lampara de lava. No funciona</translation>
+        <translation type="vanished">Una lampara de lava. No funciona</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/6.qml" line="796"/>
         <source>A frontpage from the newspaper when the apocalypse got real</source>
-        <translation>La portada de un periódico, dice que el apocalipsis ya está aquí</translation>
+        <translation type="vanished">La portada de un periódico, dice que el apocalipsis ya está aquí</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/6.qml" line="802"/>
         <source>Books, books, books. I&apos;m looking for a good time</source>
-        <translation>¡Leyendo! ¡Me paso el día leyendo!</translation>
+        <translation type="vanished">¡Leyendo! ¡Me paso el día leyendo!</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/6.qml" line="808"/>
         <source>A shelf full of books</source>
-        <translation>Una estantería llena de libros</translation>
+        <translation type="vanished">Una estantería llena de libros</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/6.qml" line="814"/>
         <source>A small pile of very uninteresting papers</source>
-        <translation>Un montón de papeles aburridos</translation>
+        <translation type="vanished">Un montón de papeles aburridos</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/6.qml" line="834"/>
         <source>A fuel cell</source>
-        <translation>Una batería</translation>
+        <translation type="vanished">Una batería</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/6.qml" line="880"/>
         <source>The two pieces fit perfectly together</source>
-        <translation>Las dos piezas encajan perfectamente</translation>
+        <translation type="vanished">Las dos piezas encajan perfectamente</translation>
     </message>
 </context>
 <context>
     <name>7</name>
     <message>
-        <location filename="../qml/scenes/7.qml" line="53"/>
         <source>Nah. Not really interesting</source>
-        <translation>Bah, nada interesante</translation>
+        <translation type="vanished">Bah, nada interesante</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/7.qml" line="54"/>
         <source>Not of any use</source>
-        <translation>No sirve para nada</translation>
+        <translation type="vanished">No sirve para nada</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/7.qml" line="55"/>
         <source>It&apos;s actually a bit warm in here</source>
-        <translation>Hace un poco de calor aquí, ¿no?</translation>
+        <translation type="vanished">Hace un poco de calor aquí, ¿no?</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/7.qml" line="167"/>
         <source>Brilliant. The rope is firmly tied to the hook</source>
-        <translation>Perfecto. La cuerda está atada al gancho</translation>
+        <translation type="vanished">Perfecto. La cuerda está atada al gancho</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/7.qml" line="185"/>
         <source>Hmm... If we tied something to the hook...</source>
-        <translation>Mmm... Si pudieses atar algo al gancho...</translation>
+        <translation type="vanished">Mmm... Si pudieses atar algo al gancho...</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/7.qml" line="185"/>
         <source>...</source>
-        <translation>...</translation>
+        <translation type="vanished">...</translation>
     </message>
 </context>
 <context>
     <name>8</name>
     <message>
-        <location filename="../qml/scenes/8.qml" line="22"/>
         <source>...</source>
-        <translation>...</translation>
+        <translation type="vanished">...</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/8.qml" line="22"/>
         <source>Something is wrong</source>
-        <translation>Algo va mal</translation>
+        <translation type="vanished">Algo va mal</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/8.qml" line="22"/>
         <source>I can feel it</source>
-        <translation>Lo noto</translation>
+        <translation type="vanished">Lo noto</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/8.qml" line="22"/>
         <source>I can hear zombies</source>
-        <translation>Oigo zombis</translation>
+        <translation type="vanished">Oigo zombis</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/8.qml" line="22"/>
         <source>A lot of zombies!</source>
-        <translation>¡Muchos zombis!</translation>
+        <translation type="vanished">¡Muchos zombis!</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/8.qml" line="36"/>
         <source>HA! First blood!</source>
-        <translation>¡Sí! ¡A sangre fría!</translation>
+        <translation type="vanished">¡Sí! ¡A sangre fría!</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/8.qml" line="38"/>
         <source>Right on!</source>
-        <translation>¡Toma esa!</translation>
+        <translation type="vanished">¡Toma esa!</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/8.qml" line="40"/>
         <source>BOOM baby!</source>
-        <translation>¡Sayonara, baby!</translation>
+        <translation type="vanished">¡Sayonara, baby!</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/8.qml" line="42"/>
         <source>Out of my way!</source>
-        <translation>¡Quitaos de en medio!</translation>
+        <translation type="vanished">¡Quitaos de en medio!</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/8.qml" line="44"/>
         <source>Oh my...</source>
-        <translation>Madre mía...</translation>
+        <translation type="vanished">Madre mía...</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/8.qml" line="44"/>
         <source>They keep showing up!</source>
-        <translation>¡No paran de salir!</translation>
+        <translation type="vanished">¡No paran de salir!</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/8.qml" line="48"/>
         <source>Take that you creep!</source>
-        <translation>¡Chúpate esa!</translation>
+        <translation type="vanished">¡Chúpate esa!</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/8.qml" line="56"/>
         <source>I can hear the chopper in the distance!</source>
-        <translation>¡Oigo el helicóptero a lo lejos!</translation>
+        <translation type="vanished">¡Oigo el helicóptero a lo lejos!</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/8.qml" line="372"/>
         <source>That&apos;s definitely the antenna dish for the radio</source>
-        <translation>Esa es la antena para la radio</translation>
+        <translation type="vanished">Esa es la antena para la radio</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/8.qml" line="381"/>
         <source>The box has a socket. It could be something like an external power supply for the antenna</source>
-        <translation>La caja tiene un enchufe. Podría ser la alimentación externa para la antena</translation>
+        <translation type="vanished">La caja tiene un enchufe. Podría ser la alimentación externa para la antena</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/8.qml" line="381"/>
         <source>Maybe to give it extra range?</source>
-        <translation>¿Quizás para que tenga cobertura?</translation>
+        <translation type="vanished">¿Quizás para que tenga cobertura?</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/8.qml" line="389"/>
         <source>The fuel cell is connected</source>
-        <translation>La batería está conectada</translation>
+        <translation type="vanished">La batería está conectada</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/8.qml" line="389"/>
         <source>This should give the radio some extra range</source>
-        <translation>Con esto deberíamos tener cobertura</translation>
+        <translation type="vanished">Con esto deberíamos tener cobertura</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/8.qml" line="415"/>
         <source>Good work survivour. The antenna is now powered. This should give some extra range</source>
-        <translation>Buen trabajo, superviviente. La antena está conectada. Ahora debería haber cobertura</translation>
+        <translation type="vanished">Buen trabajo, superviviente. La antena está conectada. Ahora debería haber cobertura</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/8.qml" line="418"/>
         <source>The fuel cell is out of power. It&apos;ll be hard to get it charged under these circumstances</source>
-        <translation>La batería está agotada. Te va a costar cargarla en estas condiciones</translation>
+        <translation type="vanished">La batería está agotada. Te va a costar cargarla en estas condiciones</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/8.qml" line="569"/>
         <source>The end!</source>
-        <translation>¡Fin!</translation>
+        <translation type="vanished">¡Fin!</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/8.qml" line="614"/>
         <source>The zombies are coming!&lt;br&gt;Furtunately you have your shotgun!&lt;br&gt;&lt;br&gt;Tab on the zombies to shot them&lt;br&gt; - SHOOT THEM ALL -</source>
-        <translation>¡Vienen los zombis!&lt;br&gt;¡Tienes una escopeta!&lt;br&gt;&lt;br&gt;Toca a los zombis para dispararlos&lt;br&gt; - ¡CÁRGATELOS! </translation>
+        <translation type="vanished">¡Vienen los zombis!&lt;br&gt;¡Tienes una escopeta!&lt;br&gt;&lt;br&gt;Toca a los zombis para dispararlos&lt;br&gt; - ¡CÁRGATELOS! </translation>
     </message>
     <message>
-        <location filename="../qml/scenes/8.qml" line="615"/>
         <source>SUCK ON THIS!</source>
-        <translation>¡CHÚPATE ESTA!</translation>
+        <translation type="vanished">¡CHÚPATE ESTA!</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/8.qml" line="616"/>
         <source>EAT LEAD!</source>
-        <translation>¡REPARTIENDO PLOMO!</translation>
+        <translation type="vanished">¡REPARTIENDO PLOMO!</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/8.qml" line="626"/>
         <source>A horde of zombies are coming!&lt;br&gt;You&apos;ll need something to protect yourself!&lt;br&gt;See if you can find something in the tower!</source>
-        <translation>¡Una horda de zombis!&lt;br&gt;¡Necesitas algo para protegerte!&lt;br&gt;¡Busca algo en la torre!</translation>
+        <translation type="vanished">¡Una horda de zombis!&lt;br&gt;¡Necesitas algo para protegerte!&lt;br&gt;¡Busca algo en la torre!</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/8.qml" line="627"/>
         <source>YES - OK</source>
-        <translation>SÍ. VALE</translation>
+        <translation type="vanished">SÍ. VALE</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/8.qml" line="628"/>
         <source>YES!</source>
-        <translation>¡SÍ!</translation>
+        <translation type="vanished">¡SÍ!</translation>
     </message>
 </context>
 <context>
@@ -1141,9 +912,13 @@
         <translation>2016-2017</translation>
     </message>
     <message>
-        <location filename="../qml/About.qml" line="53"/>
         <source>Version %1 (%2), Qak %3 (%4), Qt %5</source>
-        <translation>Versión %1 (%2), Qak %3 (%4), Qt %5</translation>
+        <translation type="vanished">Versión %1 (%2), Qak %3 (%4), Qt %5</translation>
+    </message>
+    <message>
+        <location filename="../qml/About.qml" line="53"/>
+        <source>Version %1 (%2), Qak %3 (%4), QtFirebase %5 (%6), Qt %7</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/About.qml" line="55"/>
@@ -1227,9 +1002,8 @@
 <context>
     <name>ApplicationWindow</name>
     <message>
-        <location filename="../../../qak/Qak/QtQuick/Controls/ApplicationWindow.qml" line="11"/>
         <source>Qak (%1x%2)</source>
-        <translation>Qak (%1x%2)</translation>
+        <translation type="vanished">Qak (%1x%2)</translation>
     </message>
 </context>
 <context>
@@ -1248,9 +1022,8 @@
 <context>
     <name>Console</name>
     <message>
-        <location filename="../../../qak/Qak/Tools/Console.qml" line="24"/>
         <source>Send</source>
-        <translation>Enviar</translation>
+        <translation type="vanished">Enviar</translation>
     </message>
 </context>
 <context>
@@ -1801,7 +1574,7 @@
 <context>
     <name>Game</name>
     <message>
-        <location filename="../qml/Game.qml" line="63"/>
+        <location filename="../qml/Game.qml" line="64"/>
         <source>All systems... GO!</source>
         <translation>Todo listo... ¡YA!</translation>
     </message>
@@ -1840,12 +1613,12 @@
         <translation>Encaja de milagro. ¡Es tu día de suerte!</translation>
     </message>
     <message>
-        <location filename="../qml/Game.qml" line="1235"/>
+        <location filename="../qml/Game.qml" line="1233"/>
         <source>The bucket is patched. No holes!</source>
         <translation>El cubo está arreglado, ya no tiene agujeros</translation>
     </message>
     <message>
-        <location filename="../qml/Game.qml" line="1252"/>
+        <location filename="../qml/Game.qml" line="1250"/>
         <source>There we go. A patched bucket!</source>
         <translation>Ahí lo tienes. Un cubo arreglado</translation>
     </message>
@@ -1853,115 +1626,93 @@
 <context>
     <name>Main</name>
     <message>
-        <location filename="../qml/menus/Main.qml" line="88"/>
         <source>Language</source>
-        <translation>Idioma</translation>
+        <translation type="vanished">Idioma</translation>
     </message>
     <message>
-        <location filename="../qml/menus/Main.qml" line="74"/>
         <source>About</source>
-        <translation>Acerca de</translation>
+        <translation type="vanished">Acerca de</translation>
     </message>
     <message>
-        <location filename="../qml/menus/Main.qml" line="158"/>
         <source>Credits</source>
-        <translation>Créditos</translation>
+        <translation type="vanished">Créditos</translation>
     </message>
     <message>
-        <location filename="../qml/menus/Main.qml" line="192"/>
         <source>Start</source>
-        <translation>Jugar</translation>
+        <translation type="vanished">Jugar</translation>
     </message>
     <message>
-        <location filename="../qml/menus/Main.qml" line="208"/>
         <source>How to play</source>
-        <translation>Cómo jugar</translation>
+        <translation type="vanished">Cómo jugar</translation>
     </message>
     <message>
-        <location filename="../qml/menus/Main.qml" line="215"/>
         <source>Reset</source>
-        <translation>Reiniciar</translation>
+        <translation type="vanished">Reiniciar</translation>
     </message>
     <message>
-        <location filename="../qml/menus/Main.qml" line="226"/>
         <source>This action will erase all game progress.
 Continue?</source>
-        <translation>Esto borrará la partida actual.
+        <translation type="vanished">Esto borrará la partida actual.
 ¿Continuar?</translation>
     </message>
     <message>
-        <location filename="../qml/menus/Main.qml" line="259"/>
         <source>Game reset successfully</source>
-        <translation>Partida reiniciada con éxito</translation>
+        <translation type="vanished">Partida reiniciada con éxito</translation>
     </message>
 </context>
 <context>
     <name>Pause</name>
     <message>
-        <location filename="../qml/menus/Pause.qml" line="35"/>
         <source>Resume</source>
-        <translation>Continuar</translation>
+        <translation type="vanished">Continuar</translation>
     </message>
     <message>
-        <location filename="../qml/menus/Pause.qml" line="42"/>
         <source>Menu</source>
-        <translation>Menú</translation>
+        <translation type="vanished">Menú</translation>
     </message>
     <message>
-        <location filename="../qml/menus/Pause.qml" line="49"/>
         <source>Exit</source>
-        <translation>Salir</translation>
+        <translation type="vanished">Salir</translation>
     </message>
 </context>
 <context>
     <name>Tutorial</name>
     <message>
-        <location filename="../qml/scenes/Tutorial.qml" line="35"/>
         <source>Welcome survivor&lt;br&gt;This is how you&lt;br&gt;play the game</source>
-        <translation>Bienvenido, superviviente&lt;br&gt;Aquí aprenderás a jugar</translation>
+        <translation type="vanished">Bienvenido, superviviente&lt;br&gt;Aquí aprenderás a jugar</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/Tutorial.qml" line="37"/>
         <source>Tab on objects&lt;br&gt;to examine them</source>
-        <translation>Toca los objetos&lt;br&gt;para analizarlos</translation>
+        <translation type="vanished">Toca los objetos&lt;br&gt;para analizarlos</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/Tutorial.qml" line="39"/>
-        <location filename="../qml/scenes/Tutorial.qml" line="43"/>
-        <location filename="../qml/scenes/Tutorial.qml" line="49"/>
         <source>Good job!</source>
-        <translation>¡Buen trabajo!</translation>
+        <translation type="vanished">¡Buen trabajo!</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/Tutorial.qml" line="41"/>
         <source>Tab once on objects&lt;br&gt;to pick them up</source>
-        <translation>Toca los objetos&lt;br&gt;para cogerlos</translation>
+        <translation type="vanished">Toca los objetos&lt;br&gt;para cogerlos</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/Tutorial.qml" line="45"/>
         <source>Objects you have&lt;br&gt;picked up are in&lt;br&gt;your inventory...</source>
-        <translation>Los objetos&lt;br&gt;que cojas se guardan&lt;br&gt;en el inventario...</translation>
+        <translation type="vanished">Los objetos&lt;br&gt;que cojas se guardan&lt;br&gt;en el inventario...</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/Tutorial.qml" line="47"/>
         <source>To use objects&lt;br&gt;hold and drag them&lt;br&gt;from the inventory to the room&lt;br&gt;(place the zombie doll on the box)</source>
-        <translation>Para usar un objeto&lt;br&gt;arrástralo fuera del inventario&lt;br&gt;(coloca el muñeco-zombi encima de la caja)</translation>
+        <translation type="vanished">Para usar un objeto&lt;br&gt;arrástralo fuera del inventario&lt;br&gt;(coloca el muñeco-zombi encima de la caja)</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/Tutorial.qml" line="51"/>
         <source>That&apos;s basically it!&lt;br&gt;Now try and put the wiener&lt;br&gt;on the doll&apos;s head!</source>
-        <translation>¡Eso es todo!&lt;br&gt;Ahora intenta colocar la salchicha&lt;br&gt;encima del muñeco</translation>
+        <translation type="vanished">¡Eso es todo!&lt;br&gt;Ahora intenta colocar la salchicha&lt;br&gt;encima del muñeco</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/Tutorial.qml" line="53"/>
         <source>Good job!&lt;br&gt;You have completed the tutorial!&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;red&quot;&gt;NOW TRY THE REAL DEAL&lt;/font&gt;</source>
-        <translation>¡Bien hecho!&lt;br&gt;¡Has completado el tutorial!&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;red&quot;&gt;Y AHORA... AL LÍO&lt;/font&gt;</translation>
+        <translation type="vanished">¡Bien hecho!&lt;br&gt;¡Has completado el tutorial!&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;red&quot;&gt;Y AHORA... AL LÍO&lt;/font&gt;</translation>
     </message>
     <message>
-        <location filename="../qml/scenes/Tutorial.qml" line="180"/>
         <source>Continue</source>
         <extracomment>On a button</extracomment>
-        <translation>Continuar</translation>
+        <translation type="vanished">Continuar</translation>
     </message>
 </context>
 <context>
