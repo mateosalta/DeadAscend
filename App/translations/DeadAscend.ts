@@ -1181,7 +1181,7 @@ Continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Objects you have&lt;br&gt;picked up is in&lt;br&gt;your inventory...</source>
+        <source>Objects you have&lt;br&gt;picked up are in&lt;br&gt;your inventory...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

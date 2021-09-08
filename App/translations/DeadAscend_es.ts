@@ -1939,7 +1939,7 @@ Continue?</source>
     </message>
     <message>
         <location filename="../qml/scenes/Tutorial.qml" line="45"/>
-        <source>Objects you have&lt;br&gt;picked up is in&lt;br&gt;your inventory...</source>
+        <source>Objects you have&lt;br&gt;picked up are in&lt;br&gt;your inventory...</source>
         <translation>Los objetos&lt;br&gt;que cojas se guardan&lt;br&gt;en el inventario...</translation>
     </message>
     <message>
