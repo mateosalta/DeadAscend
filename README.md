@@ -68,7 +68,8 @@ Once you have a fully working Qt/Qt Creator setup - you are ready to checkout an
 
 4. Translations
 
-    For translations please follow instructions here: [Translations.md](https://github.com/mateosalta/DeadAscend/blob/master/docs/Translations.md) 
+    For translations please follow instructions here: [Translations.md](https://github.com/mateosalta/DeadAscend/blob/master/docs/Translations.md)
+    If you are using QtCreator e.g. by running `clickable ide qtcreator`, configure lupdate and lrelease with the argument set to "App/translations/*.ts".
 
 ## Bugs and issues
 
