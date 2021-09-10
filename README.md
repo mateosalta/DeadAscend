@@ -66,6 +66,10 @@ Once you have a fully working Qt/Qt Creator setup - you are ready to checkout an
       ```
       You can now run `./App/DeadAscend` - or if you used `BIN_DIR`: `/usr/bin/DeadAscend`
 
+4. Translations
+
+    For translations please follow instructions here: [Translations.md](https://github.com/mateosalta/DeadAscend/blob/master/docs/Translations.md) 
+
 ## Bugs and issues
 
 If you encounter anything odd with the game feel free to report an [issue](https://github.com/Larpon/DeadAscend/issues).

@@ -3,7 +3,6 @@
 
 From project root:
 python ./sbin/translation.py ./App/assets/scenes/scenes.json
-mv ./Extra.qml ./App/translations/
 
 # Translation flow
 
