@@ -80,8 +80,10 @@ Once you have a fully working Qt/Qt Creator setup - you are ready to checkout an
     ### Translation flow
 
     a. to extract strings from qml files to ts-files (developers)
-    - terminal: lupdate App.pro -ts App/translations/*.ts
-    - QtCreator: Tools->External->Linguist->update translations(lupdate)
+    - terminal: lupdate App/App.pro -ts App/translations/*.ts
+    - QtCreator
+        - configure Linguist: Tools -> Options -> Environment -> Linguist -> lupdate, set Arguments to 'App/App.pro -ts App/translations/*.ts'
+        - run lupdate: Tools->External->Linguist->update translations(lupdate)
 
     b. to update ts-files
     - terminal: linguist App/translations/DeadAscend_*.ts
@@ -93,7 +95,9 @@ Once you have a fully working Qt/Qt Creator setup - you are ready to checkout an
 
     d. to update/create qm-files from updated/new ts-files (developers)
     - terminal: lrelease App/translations/*.ts
-    - QtCreator: Tools->External->Linguist->update translations(lupdate)
+    - QtCreator
+        - configure Linguist: Tools -> Options -> Environment -> Linguist -> lrelease, set Arguments to 'App/translations/*.ts'
+        - run lrelease: Tools->External->Linguist->update translations(lrelease)
 
     ### (optional) get language flags to add to the app for new translations
     https://github.com/hjnilsson/country-flags
