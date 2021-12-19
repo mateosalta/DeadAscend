@@ -170,7 +170,7 @@ Rectangle {
             script: {
                 text.text = qsTr("
                 German translation<br>
-                Danfro
+                Martha and Daniel Frost
                 ")
                 text.opacity = 1
             }
