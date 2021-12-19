@@ -505,7 +505,7 @@
     </message>
     <message>
         <source>It&apos;s charging...</source>
-        <translation>Er lädt...</translation>
+        <translation>Der Akku lädt...</translation>
     </message>
     <message>
         <source>...</source>
@@ -842,7 +842,7 @@
     </message>
     <message>
         <source>The box has a socket. It could be something like an external power supply for the antenna</source>
-        <translation>Der Kasten hat eine Steckdose. Sie könnte so etwas wie eine externe Stromquelle für die Funkantenne sein.</translation>
+        <translation>Der Kasten hat eine Steckdose. Das könnte eine externe Stromquelle für die Funkantenne sein.</translation>
     </message>
     <message>
         <source>Maybe to give it extra range?</source>
@@ -923,7 +923,7 @@
     <message>
         <source>The game serves as a showcase and example of how you can build a cross-platform game with Qt.&lt;br&gt;
             The source code for the game engine is ~&lt;b&gt;97%&lt;/b&gt; QML (including some Javascript) and ~3% C++.</source>
-        <translation>Das Spiel ist Vorzeigestück und Beispiel wie ein plattformübergreifendes Spiel mit Qt erstellt werden kann.&lt;br&gt;
+        <translation>Das Spiel ist ein Vorzeigestück und Beispiel wie ein plattformübergreifendes Spiel mit Qt erstellt werden kann.&lt;br&gt;
             Der Quellcode für die Spielengine ist ~&lt;b&gt;97%&lt;/b&gt; QML (inklusive etwas Javascript) und ~3% C++.</translation>
     </message>
     <message>
@@ -1321,7 +1321,7 @@ Continue?</source>
     </message>
     <message>
         <source>A chandelier. Moving slightly in the draft from the window</source>
-        <translation>Ein Kronleuchter. Er bewegt sich leicht im Luftzug vom Fenster.</translation>
+        <translation>Ein Kronleuchter. Er bewegt sich leicht im Luftzug des Fensters.</translation>
     </message>
     <message>
         <source>A nice frame</source>
@@ -1329,7 +1329,7 @@ Continue?</source>
     </message>
     <message>
         <source>It has the number 099 on the backside</source>
-        <translation>Er hat auf der Rückseite die Nummer 099.</translation>
+        <translation>Auf der Rückseite steht die Nummer 099.</translation>
     </message>
     <message>
         <source>A nice picture frame</source>
@@ -1337,7 +1337,7 @@ Continue?</source>
     </message>
     <message>
         <source>It has the number 318 on the backside</source>
-        <translation>Er hat auf der Rückseite die Nummer 318.</translation>
+        <translation>Auf der Rückseite steht die Nummer 318.</translation>
     </message>
     <message>
         <source>A red barrel with a warning sign</source>
@@ -1381,11 +1381,11 @@ Continue?</source>
     </message>
     <message>
         <source>Looks like a ladder rail</source>
-        <translation>Sieht wie eine Metallleiter aus.</translation>
+        <translation>Sieht wie eine Leiterstange aus.</translation>
     </message>
     <message>
         <source>A ladder rail it seems. With 6 holes in it</source>
-        <translation>Eine Metallleiter mit 6 Löchern drin.</translation>
+        <translation>Eine Leiterstange mit 6 Löchern drin.</translation>
     </message>
     <message>
         <source>Nothing hides in this shadow</source>
@@ -1509,7 +1509,7 @@ Continue?</source>
     </message>
     <message>
         <source>It has the number 563 on the backside</source>
-        <translation>Er hat auf der Rückseite die Nummer 563.</translation>
+        <translation>Auf der Rückseite steht die Nummer 563.</translation>
     </message>
     <message>
         <source>Some sacks of grain</source>
