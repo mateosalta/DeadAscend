@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=DeadAscend
+Exec=DeadAscend
+Icon=icon.svg
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+Name[en_US]=DeadAscend
+X-Ubuntu-Splash-Color=#000000
+X-Ubuntu-Splash-Image=icon.svg

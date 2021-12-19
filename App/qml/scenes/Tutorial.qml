@@ -42,7 +42,7 @@ Base {
         if(step === 4)
             return qsTr('Good job!')
         if(step === 5)
-            return qsTr('Objects you have<br>picked up is in<br>your inventory...')
+            return qsTr('Objects you have<br>picked up are in<br>your inventory...')
         if(step === 6)
             return qsTr('To use objects<br>hold and drag them<br>from the inventory to the room<br>(place the zombie doll on the box)')
         if(step === 7)

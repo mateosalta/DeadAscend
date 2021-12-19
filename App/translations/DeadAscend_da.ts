@@ -5,892 +5,892 @@
     <name>0</name>
     <message>
         <source>The room is pitch dark. You better find some light somewhere.</source>
-        <translation>Rummet er kul sort. Du må hellere finde noget lys et sted.</translation>
+        <translation type="vanished">Rummet er kul sort. Du må hellere finde noget lys et sted.</translation>
     </message>
     <message>
         <source>Maybe there&apos;s a switch in here somewhere?</source>
-        <translation>Måske er der en kontakt herinde et sted?</translation>
+        <translation type="vanished">Måske er der en kontakt herinde et sted?</translation>
     </message>
     <message>
         <source>Interesting surface</source>
-        <translation>Interessant overflade</translation>
+        <translation type="vanished">Interessant overflade</translation>
     </message>
     <message>
         <source>Nothing interesting here</source>
-        <translation>Her er intet interessant</translation>
+        <translation type="vanished">Her er intet interessant</translation>
     </message>
     <message>
         <source>Not of any use</source>
-        <translation>Ikke brugbart</translation>
+        <translation type="vanished">Ikke brugbart</translation>
     </message>
     <message>
         <source>A creepy room</source>
-        <translation>Et uhyggeligt rum</translation>
+        <translation type="vanished">Et uhyggeligt rum</translation>
     </message>
     <message>
         <source>A bit greased</source>
-        <translation>Lidt fedtet</translation>
+        <translation type="vanished">Lidt fedtet</translation>
     </message>
     <message>
         <source>Where is everybody?</source>
-        <translation>Hvor er allesammen henne?</translation>
+        <translation type="vanished">Hvor er allesammen henne?</translation>
     </message>
     <message>
         <source>There&apos;s sounds of mumbling zombies</source>
-        <translation>Der er lyde fra mumlende zombier</translation>
+        <translation type="vanished">Der er lyde fra mumlende zombier</translation>
     </message>
     <message>
         <source>Did you hear that?</source>
-        <translation>Hørte du det?</translation>
+        <translation type="vanished">Hørte du det?</translation>
     </message>
     <message>
         <source>Gravity forces the hatch to close again</source>
-        <translation>Tyngdekraften tvinger lemmen til at lukke igen</translation>
+        <translation type="vanished">Tyngdekraften tvinger lemmen til at lukke igen</translation>
     </message>
     <message>
         <source>Find a way to keep the hatch open</source>
-        <translation>Find en måde at holde lemmen åben på</translation>
+        <translation type="vanished">Find en måde at holde lemmen åben på</translation>
     </message>
     <message>
         <source>The bucket is not heavy enough to keep the hatch open. Make it heavier</source>
-        <translation>Spanden er ikke tung nok til at holde lemmen åben. Gør den tungere</translation>
+        <translation type="vanished">Spanden er ikke tung nok til at holde lemmen åben. Gør den tungere</translation>
     </message>
     <message>
         <source>The bucket is patched. No holes!</source>
-        <translation>Spanden er lappet. Nul huller!</translation>
+        <translation type="vanished">Spanden er lappet. Nul huller!</translation>
     </message>
     <message>
         <source>A bucket full of water. It&apos;s pretty heavy!</source>
-        <translation>En spand fyldt med vand. Den er ret tung!</translation>
+        <translation type="vanished">En spand fyldt med vand. Den er ret tung!</translation>
     </message>
     <message>
         <source>The flourescent lights humms faintly - casting a grim light in the room...</source>
-        <translation>Lysstofrøret summer lavt og kaster et skummelt lys i rummet...</translation>
+        <translation type="vanished">Lysstofrøret summer lavt og kaster et skummelt lys i rummet...</translation>
     </message>
     <message>
         <source>Some flies are having a party here as well</source>
-        <translation>Nogle fluer holder også fest her</translation>
+        <translation type="vanished">Nogle fluer holder også fest her</translation>
     </message>
     <message>
         <source>There&apos;s something small, round and red lying on the edge of the sleeve assembly</source>
-        <translation>Der er noget småt, rundt og rødt der ligger på kanten af rørsamlingen</translation>
+        <translation type="vanished">Der er noget småt, rundt og rødt der ligger på kanten af rørsamlingen</translation>
     </message>
     <message>
         <source>It&apos;s too far down to reach by hand</source>
-        <translation>Det er for langt nede til at nå med hånden</translation>
+        <translation type="vanished">Det er for langt nede til at nå med hånden</translation>
     </message>
     <message>
         <source>There&apos;s nothing more downthere</source>
-        <translation>Der er ikke mere dernede</translation>
+        <translation type="vanished">Der er ikke mere dernede</translation>
     </message>
     <message>
         <source>A nice red, round button</source>
-        <translation>En lækker rød, rund knap</translation>
+        <translation type="vanished">En lækker rød, rund knap</translation>
     </message>
     <message>
         <source>Got it! It&apos;s a red button!?</source>
-        <translation>En lækker rød, rund knap!?</translation>
+        <translation type="vanished">En lækker rød, rund knap!?</translation>
     </message>
     <message>
         <source>A hatch leading upstairs</source>
-        <translation>En lem der fører oven på</translation>
+        <translation type="vanished">En lem der fører oven på</translation>
     </message>
     <message>
         <source>It&apos;s too dark to do anything. Better find some light somewhere</source>
-        <translation>Det er for mørkt til at gøre noget. Find hellere noget lys et sted</translation>
+        <translation type="vanished">Det er for mørkt til at gøre noget. Find hellere noget lys et sted</translation>
     </message>
     <message>
         <source>Lights on</source>
-        <translation>Så er der lys over land</translation>
+        <translation type="vanished">Så er der lys over land</translation>
     </message>
     <message>
         <source>Lights out</source>
-        <translation>Sikke mørkt her blev</translation>
+        <translation type="vanished">Sikke mørkt her blev</translation>
     </message>
     <message>
         <source>There&apos;s a hole in the bucket. You need to patch the bucket somehow</source>
-        <translation>Der er et hul i spanden. Du bliver nødt til at stoppe hullet på en eller anden måde</translation>
+        <translation type="vanished">Der er et hul i spanden. Du bliver nødt til at stoppe hullet på en eller anden måde</translation>
     </message>
 </context>
 <context>
     <name>1</name>
     <message>
         <source>Interesting surface</source>
-        <translation>Interessant overflade</translation>
+        <translation type="vanished">Interessant overflade</translation>
     </message>
     <message>
         <source>Not interesting</source>
-        <translation>Ikke interessant</translation>
+        <translation type="vanished">Ikke interessant</translation>
     </message>
     <message>
         <source>Not of any use</source>
-        <translation>Ikke brugbart</translation>
+        <translation type="vanished">Ikke brugbart</translation>
     </message>
     <message>
         <source>The room is very cold</source>
-        <translation>Rummet er meget koldt</translation>
+        <translation type="vanished">Rummet er meget koldt</translation>
     </message>
     <message>
         <source>Where is everybody?</source>
-        <translation>Hvor er allesammen henne?</translation>
+        <translation type="vanished">Hvor er allesammen henne?</translation>
     </message>
     <message>
         <source>There&apos;s sounds of mumbling zombies</source>
-        <translation>Der er lyde fra mumlende zombier</translation>
+        <translation type="vanished">Der er lyde fra mumlende zombier</translation>
     </message>
     <message>
         <source>Did you hear that?</source>
-        <translation>Hørte du det?</translation>
+        <translation type="vanished">Hørte du det?</translation>
     </message>
     <message>
         <source>Need something to reach the hole in the ceiling</source>
-        <translation>Der skal noget til at nå det hul i loften</translation>
+        <translation type="vanished">Der skal noget til at nå det hul i loften</translation>
     </message>
     <message>
         <source>Another rung in the rail!</source>
-        <translation>En stang mere i skinnen!</translation>
+        <translation type="vanished">En stang mere i skinnen!</translation>
     </message>
     <message>
         <source>One more rail should be put up. I think</source>
-        <translation>Jeg tror der skal stilles en skinne mere op</translation>
+        <translation type="vanished">Jeg tror der skal stilles en skinne mere op</translation>
     </message>
     <message>
         <source>This could work if there was something to attach to</source>
-        <translation>Det kunne godt virke hvis der var noget at fæstne til</translation>
+        <translation type="vanished">Det kunne godt virke hvis der var noget at fæstne til</translation>
     </message>
     <message>
         <source>YES! Finally we can proceed upwards</source>
-        <translation>SÅDAN! Endelig kan vi fortsætte opad</translation>
+        <translation type="vanished">SÅDAN! Endelig kan vi fortsætte opad</translation>
     </message>
 </context>
 <context>
     <name>2</name>
     <message>
         <source>An empty syringe. Not very helpful when empty...</source>
-        <translation>En tom kanyle. Ikke specielt brugbar når den er tom...</translation>
+        <translation type="vanished">En tom kanyle. Ikke specielt brugbar når den er tom...</translation>
     </message>
     <message>
         <source>Not very interesting</source>
-        <translation>Ikke særlig interessant</translation>
+        <translation type="vanished">Ikke særlig interessant</translation>
     </message>
     <message>
         <source>Not of any use</source>
-        <translation>Ikke brugbart</translation>
+        <translation type="vanished">Ikke brugbart</translation>
     </message>
     <message>
         <source>It&apos;s cold in here</source>
-        <translation>Det er koldt herinde</translation>
+        <translation type="vanished">Det er koldt herinde</translation>
     </message>
     <message>
         <source>I wonder where everybody is?</source>
-        <translation>Gad vide hvor allesammen er henne?</translation>
+        <translation type="vanished">Gad vide hvor allesammen er henne?</translation>
     </message>
     <message>
         <source>There&apos;s faint sounds of mumbling zombies</source>
-        <translation>Der er svage lyde af zombiemumlen</translation>
+        <translation type="vanished">Der er svage lyde af zombiemumlen</translation>
     </message>
     <message>
         <source>It seems like it need a fuse to work</source>
-        <translation>Det ser ud til at den mangler en sikring for at virke</translation>
+        <translation type="vanished">Det ser ud til at den mangler en sikring for at virke</translation>
     </message>
     <message>
         <source>Going up!</source>
-        <translation>Så kører vi op!</translation>
+        <translation type="vanished">Så kører vi op!</translation>
     </message>
     <message>
         <source>Going down!</source>
-        <translation>Så kører vi ned!</translation>
+        <translation type="vanished">Så kører vi ned!</translation>
     </message>
     <message>
         <source>This lift could get you further up. But it&apos;s not working?</source>
-        <translation>Vareelevatoren her kunne godt få dig længere op - men den virker ikke?</translation>
+        <translation type="vanished">Vareelevatoren her kunne godt få dig længere op - men den virker ikke?</translation>
     </message>
     <message>
         <source>It&apos;s hard to make out what is behind the wall</source>
-        <translation>Det er svært at se hvad der er bag muren</translation>
+        <translation type="vanished">Det er svært at se hvad der er bag muren</translation>
     </message>
     <message>
         <source>The lift must be on the other side of this wall</source>
-        <translation>Vareelevatoren må være på den anden side af væggen</translation>
+        <translation type="vanished">Vareelevatoren må være på den anden side af væggen</translation>
     </message>
     <message>
         <source>It fits perfectly!</source>
-        <translation>Den passer perfect!</translation>
+        <translation type="vanished">Den passer perfect!</translation>
     </message>
     <message>
         <source>It fits perfectly in the socket!</source>
-        <translation>Den passer perfekt i fatningen!</translation>
+        <translation type="vanished">Den passer perfekt i fatningen!</translation>
     </message>
     <message>
         <source>The lift is already up</source>
-        <translation>Varelevatoren er allerede oppe</translation>
+        <translation type="vanished">Varelevatoren er allerede oppe</translation>
     </message>
     <message>
         <source>The lift is already down</source>
-        <translation>Varelevatoren er allerede nede</translation>
+        <translation type="vanished">Varelevatoren er allerede nede</translation>
     </message>
     <message>
         <source>The cabinet door is locked. Cabinets always hold useful stuff!</source>
-        <translation>Lågen til skabet er låst. Skabe indeholder altid brugbare ting og sager!</translation>
+        <translation type="vanished">Lågen til skabet er låst. Skabe indeholder altid brugbare ting og sager!</translation>
     </message>
     <message>
         <source>A keyhole</source>
-        <translation>Et nøglehul</translation>
+        <translation type="vanished">Et nøglehul</translation>
     </message>
     <message>
         <source>It won&apos;t open the door...</source>
-        <translation>Det vil ikke åbne døren...</translation>
+        <translation type="vanished">Det vil ikke åbne døren...</translation>
     </message>
     <message>
         <source>Maybe try it with the hinge?</source>
-        <translation>Prøv det måske med hængslet?</translation>
+        <translation type="vanished">Prøv det måske med hængslet?</translation>
     </message>
     <message>
         <source>A hinge holding the door</source>
-        <translation>Et hængsel der holder døren</translation>
+        <translation type="vanished">Et hængsel der holder døren</translation>
     </message>
     <message>
         <source>If there&apos;s no keys to be found - maybe this can be removed somehow</source>
-        <translation>Hvis der ikke findes en nøgle - kan det her måske fjernes på en måde</translation>
+        <translation type="vanished">Hvis der ikke findes en nøgle - kan det her måske fjernes på en måde</translation>
     </message>
     <message>
         <source>A mighty fine screw</source>
-        <translation>En meget fin skrue!</translation>
+        <translation type="vanished">En meget fin skrue!</translation>
     </message>
     <message>
         <source>That&apos;s %1 down!</source>
-        <translation>Det er %1 nede!</translation>
+        <translation type="vanished">Det er %1 nede!</translation>
     </message>
     <message>
         <source>Off you go hinge!</source>
-        <translation>Afsted med dig hængsel!</translation>
+        <translation type="vanished">Afsted med dig hængsel!</translation>
     </message>
     <message>
         <source>one screw</source>
-        <translation>en skrue</translation>
+        <translation type="vanished">en skrue</translation>
     </message>
     <message>
         <source>both screws</source>
-        <translation>begge skruer</translation>
+        <translation type="vanished">begge skruer</translation>
     </message>
 </context>
 <context>
     <name>3</name>
     <message>
         <source>Nah. Not really interesting</source>
-        <translation>Næh. Ikke rigtig interessant</translation>
+        <translation type="vanished">Næh. Ikke rigtig interessant</translation>
     </message>
     <message>
         <source>Not of any use</source>
-        <translation>Ikke brugbart</translation>
+        <translation type="vanished">Ikke brugbart</translation>
     </message>
     <message>
         <source>It&apos;s actually a bit warm in here</source>
-        <translation>Det er faktisk lidt varmt herinde</translation>
+        <translation type="vanished">Det er faktisk lidt varmt herinde</translation>
     </message>
     <message>
         <source>The machines are humming quite a lot</source>
-        <translation>Maskinerne summer faktisk en del</translation>
+        <translation type="vanished">Maskinerne summer faktisk en del</translation>
     </message>
     <message>
         <source>It&apos;s passive...</source>
-        <translation>Den er passiv...</translation>
+        <translation type="vanished">Den er passiv...</translation>
     </message>
     <message>
         <source>Only a few live infected cells relieves some muscle ticks</source>
-        <translation>Kun et par inficerede celler er i live der hiver lidt i musklerne</translation>
+        <translation type="vanished">Kun et par inficerede celler er i live der hiver lidt i musklerne</translation>
     </message>
     <message>
         <source>You should take it out of it&apos;s missery</source>
-        <translation>Du burde gøre en ende på dens lidelser</translation>
+        <translation type="vanished">Du burde gøre en ende på dens lidelser</translation>
     </message>
     <message>
         <source>Straight in the head</source>
-        <translation>Lige i hovedet</translation>
+        <translation type="vanished">Lige i hovedet</translation>
     </message>
     <message>
         <source>It&apos;s a coin. With a very matte finish</source>
-        <translation>Det er en mønt. Med en ret mat overflade</translation>
+        <translation type="vanished">Det er en mønt. Med en ret mat overflade</translation>
     </message>
     <message>
         <source>The hammer broke in two. No need to carry that around any more</source>
-        <translation>Hammer gik i stykker. Det er ligemeget at bære rundt på den mere</translation>
+        <translation type="vanished">Hammer gik i stykker. Det er ligemeget at bære rundt på den mere</translation>
     </message>
     <message>
         <source>He&apos;s dead Jim</source>
-        <translation>Han er død du</translation>
+        <translation type="vanished">Han er død du</translation>
     </message>
     <message>
         <source>... or as close as dead as zombies get</source>
-        <translation>... eller - så død som en zombie nu kan være</translation>
+        <translation type="vanished">... eller - så død som en zombie nu kan være</translation>
     </message>
     <message>
         <source>It&apos;s full of infested zombie blood</source>
-        <translation>Den er fyldt med inficeret zombieblod</translation>
+        <translation type="vanished">Den er fyldt med inficeret zombieblod</translation>
     </message>
     <message>
         <source>It&apos;s full of infested zombie blood now!</source>
-        <translation>Den er fyldt med inficeret zombieblod nu!</translation>
+        <translation type="vanished">Den er fyldt med inficeret zombieblod nu!</translation>
     </message>
     <message>
         <source>Going up!</source>
-        <translation>Så kører vi op!</translation>
+        <translation type="vanished">Så kører vi op!</translation>
     </message>
     <message>
         <source>Going down!</source>
-        <translation>Så kører vi ned!</translation>
+        <translation type="vanished">Så kører vi ned!</translation>
     </message>
     <message>
         <source>The little critter is really calm now. Eating away</source>
-        <translation>Den little gnaver er virkelig rolig nu. Den guffer løs</translation>
+        <translation type="vanished">Den little gnaver er virkelig rolig nu. Den guffer løs</translation>
     </message>
     <message>
         <source>Unfortunately it&apos;s too small to drive the treadmill upstairs</source>
-        <translation>Uheldigvis er den for lille til at drive trædemøllen ovenpå</translation>
+        <translation type="vanished">Uheldigvis er den for lille til at drive trædemøllen ovenpå</translation>
     </message>
     <message>
         <source>It&apos;s scared now the glass is smashed. Maybe it can be lured out of hiding</source>
-        <translation>Den er bange nu hvor glasset er smadret. Måske kan den lokkes ud af sit skjul</translation>
+        <translation type="vanished">Den er bange nu hvor glasset er smadret. Måske kan den lokkes ud af sit skjul</translation>
     </message>
     <message>
         <source>Such a cute little critter</source>
-        <translation>Sådan en sød lille gnaver</translation>
+        <translation type="vanished">Sådan en sød lille gnaver</translation>
     </message>
     <message>
         <source>... OK. So this is a zombie hamster. It looks pretty strong - but it&apos;s hideous</source>
-        <translation>... OK. Så dette er en zombiehamster. Den ser ret stærk ud - men den er grim</translation>
+        <translation type="vanished">... OK. Så dette er en zombiehamster. Den ser ret stærk ud - men den er grim</translation>
     </message>
     <message>
         <source>What. The...</source>
-        <translation>Hvad fand...</translation>
+        <translation type="vanished">Hvad fand...</translation>
     </message>
     <message>
         <source>...</source>
-        <translation>...</translation>
+        <translation type="vanished">...</translation>
     </message>
     <message>
         <source>Indeed you could inject him with something...</source>
-        <translation>Ja, du kunne godt sprøjte noget noget i ham...</translation>
+        <translation type="vanished">Ja, du kunne godt sprøjte noget noget i ham...</translation>
     </message>
     <message>
         <source>But what?</source>
-        <translation>Men hvad?</translation>
+        <translation type="vanished">Men hvad?</translation>
     </message>
     <message>
         <source>The hamster looks pretty scared</source>
-        <translation>Hamsteren ser ret skræmt ud</translation>
+        <translation type="vanished">Hamsteren ser ret skræmt ud</translation>
     </message>
     <message>
         <source>The drawing on the whiteboard is faded - but can still be made out</source>
-        <translation>Tegningen på tavlen er udhvisket - men man kan godt se hvad der er på den</translation>
+        <translation type="vanished">Tegningen på tavlen er udhvisket - men man kan godt se hvad der er på den</translation>
     </message>
     <message>
         <source>It looks like a sketch, depicting something involving a syringe and a hamster?</source>
-        <translation>Det ligner en skitse - af noget der involverer en kanyle og en hamster?</translation>
+        <translation type="vanished">Det ligner en skitse - af noget der involverer en kanyle og en hamster?</translation>
     </message>
 </context>
 <context>
     <name>4</name>
     <message>
         <source>Nah. Not really interesting</source>
-        <translation>Næh. Ikke rigtig interessant</translation>
+        <translation type="vanished">Næh. Ikke rigtig interessant</translation>
     </message>
     <message>
         <source>Not of any use</source>
-        <translation>Ikke brugbart</translation>
+        <translation type="vanished">Ikke brugbart</translation>
     </message>
     <message>
         <source>It&apos;s actually a bit warm in here</source>
-        <translation>Det er faktisk lidt varmt herinde</translation>
+        <translation type="vanished">Det er faktisk lidt varmt herinde</translation>
     </message>
     <message>
         <source>There&apos;s almost too quiet...</source>
-        <translation>Der er næsten for stille...</translation>
+        <translation type="vanished">Der er næsten for stille...</translation>
     </message>
     <message>
         <source>It&apos;s now connecting the treadmill with the battery - good thinking!</source>
-        <translation>Den forbinder nu trædemøllen med batteriet - godt tænkt!</translation>
+        <translation type="vanished">Den forbinder nu trædemøllen med batteriet - godt tænkt!</translation>
     </message>
     <message>
         <source>The elevator is now: Zombie Hamster Powered...</source>
-        <translation>Elevatoren er nu: Zombiehamsterdrevet</translation>
+        <translation type="vanished">Elevatoren er nu: Zombiehamsterdrevet</translation>
     </message>
     <message>
         <source>That&apos;s... really...</source>
-        <translation>Det er... virkelig...</translation>
+        <translation type="vanished">Det er... virkelig...</translation>
     </message>
     <message>
         <source>... really... weird</source>
-        <translation>... virkelig... underligt</translation>
+        <translation type="vanished">... virkelig... underligt</translation>
     </message>
     <message>
         <source>There should be a way to connect the treadmill to the motor somehow</source>
-        <translation>Der må være en måde at forbinde trædemøllen med moteren på</translation>
+        <translation type="vanished">Der må være en måde at forbinde trædemøllen med moteren på</translation>
     </message>
     <message>
         <source>Maybe this treadmill could actually power the elevator</source>
-        <translation>Måske kunne den her trædemølle rent faktisk drive elevatoren</translation>
+        <translation type="vanished">Måske kunne den her trædemølle rent faktisk drive elevatoren</translation>
     </message>
     <message>
         <source>It&apos;s just a matter of finding something powerfull enough to run it</source>
-        <translation>Det er bare et spørgsmål om at finde noget der er kraftfuldt nok til at drive den</translation>
+        <translation type="vanished">Det er bare et spørgsmål om at finde noget der er kraftfuldt nok til at drive den</translation>
     </message>
     <message>
         <source>It can&apos;t move with all this junk in front of it</source>
-        <translation>Den kan ikke flytte sig med alt det bras foran sig</translation>
+        <translation type="vanished">Den kan ikke flytte sig med alt det bras foran sig</translation>
     </message>
     <message>
         <source>It&apos;s stuck behind the popcorn machine</source>
-        <translation>Det sidder fast bag popcornmaskinen</translation>
+        <translation type="vanished">Det sidder fast bag popcornmaskinen</translation>
     </message>
     <message>
         <source>The wheels on this is rusted in place. The glass top is making it too heavy to move.</source>
-        <translation>Hjulene på den her er rustet fast. Glasset gør den for tung at flytte</translation>
+        <translation type="vanished">Hjulene på den her er rustet fast. Glasset gør den for tung at flytte</translation>
     </message>
     <message>
         <source>The skies are in the way</source>
         <extracomment>Skies the ones you put on and ski down a slope with :)</extracomment>
-        <translation>Skiene er i vejen</translation>
+        <translation type="vanished">Skiene er i vejen</translation>
     </message>
     <message>
         <source>The rocking horse is in the way</source>
-        <translation>Gyngehesten står i vejen</translation>
+        <translation type="vanished">Gyngehesten står i vejen</translation>
     </message>
     <message>
         <source>The beach ball is in the way</source>
-        <translation>Badebolden er i vejen</translation>
+        <translation type="vanished">Badebolden er i vejen</translation>
     </message>
     <message>
         <source>The elevator needs power to operate.</source>
-        <translation>Elevatoren skal have strøm for at virke</translation>
+        <translation type="vanished">Elevatoren skal have strøm for at virke</translation>
     </message>
     <message>
         <source>No need for more grain</source>
-        <translation>Der er ikke behov for mere korn</translation>
+        <translation type="vanished">Der er ikke behov for mere korn</translation>
     </message>
 </context>
 <context>
     <name>5</name>
     <message>
         <source>Nah. Not really interesting</source>
-        <translation>Næh. Ikke rigtig interessant</translation>
+        <translation type="vanished">Næh. Ikke rigtig interessant</translation>
     </message>
     <message>
         <source>Not of any use</source>
-        <translation>Ikke brugbart</translation>
+        <translation type="vanished">Ikke brugbart</translation>
     </message>
     <message>
         <source>It&apos;s actually a bit warm in here</source>
-        <translation>Det er faktisk lidt varmt herinde</translation>
+        <translation type="vanished">Det er faktisk lidt varmt herinde</translation>
     </message>
     <message>
         <source>The machines are humming quite a lot - just like downstairs</source>
-        <translation>Maskinerne summer faktisk en del - ligesom nedenunder</translation>
+        <translation type="vanished">Maskinerne summer faktisk en del - ligesom nedenunder</translation>
     </message>
     <message>
         <source>It&apos;s a fan pushing cool fresh air into the room</source>
-        <translation>Det er en ventilator der blæser frisk luft ind i rummet</translation>
+        <translation type="vanished">Det er en ventilator der blæser frisk luft ind i rummet</translation>
     </message>
     <message>
         <source>Maybe you should turn off the machinery first</source>
-        <translation>Måske du skulle slukke for maskineriet først</translation>
+        <translation type="vanished">Måske du skulle slukke for maskineriet først</translation>
     </message>
     <message>
         <source>It&apos;s already fully charged and ready to go</source>
-        <translation>Den er fuldt opladt og klar på ballade</translation>
+        <translation type="vanished">Den er fuldt opladt og klar på ballade</translation>
     </message>
     <message>
         <source>A half-charged fuel cell</source>
-        <translation>Et halv-opladt batteri</translation>
+        <translation type="vanished">Et halv-opladt batteri</translation>
     </message>
     <message>
         <source>It&apos;s charging...</source>
-        <translation>Det oplader...</translation>
+        <translation type="vanished">Det oplader...</translation>
     </message>
     <message>
         <source>...</source>
-        <translation>...</translation>
+        <translation type="vanished">...</translation>
     </message>
     <message>
         <source>The fuel cell has already finished charging</source>
-        <translation>Batteriet er allerede færdigt med at oplade</translation>
+        <translation type="vanished">Batteriet er allerede færdigt med at oplade</translation>
     </message>
     <message>
         <source>A fully charged fuel cell - ready to use</source>
-        <translation>Et fuldt opladet batteri - lige klar til brug</translation>
+        <translation type="vanished">Et fuldt opladet batteri - lige klar til brug</translation>
     </message>
     <message>
         <source>charged!</source>
-        <translation>Opladt!</translation>
+        <translation type="vanished">Opladt!</translation>
     </message>
     <message>
         <source>Hmm... This is not an easy task... </source>
-        <translation>Hmm... Det her er ikke en nem opgave...</translation>
+        <translation type="vanished">Hmm... Det her er ikke en nem opgave...</translation>
     </message>
     <message>
         <source>Some of these still need liquid in them</source>
-        <translation>Nogle af dem her mangler stadig væske</translation>
+        <translation type="vanished">Nogle af dem her mangler stadig væske</translation>
     </message>
     <message>
         <source>I think everything is ready</source>
-        <translation>Jeg tror alt er klart</translation>
+        <translation type="vanished">Jeg tror alt er klart</translation>
     </message>
     <message>
         <source>Something still need to be done here</source>
-        <translation>Der mangler stadigvæk at blive gjort noget her</translation>
+        <translation type="vanished">Der mangler stadigvæk at blive gjort noget her</translation>
     </message>
     <message>
         <source>Like the old saying goes...</source>
-        <translation>Som det gamle ordsprog lyder...</translation>
+        <translation type="vanished">Som det gamle ordsprog lyder...</translation>
     </message>
     <message>
         <source>if it ain&apos;t broken...</source>
-        <translation>Lad være med at fikse det...</translation>
+        <translation type="vanished">Lad være med at fikse det...</translation>
     </message>
     <message>
         <source>don&apos;t fix it!</source>
-        <translation>hvis det ikke er gået i stykker!</translation>
+        <translation type="vanished">hvis det ikke er gået i stykker!</translation>
     </message>
     <message>
         <source>Nice green glow. Everything seem to be ready</source>
-        <translation>Lækkert grønt skær. Alt ser ud til at være parat</translation>
+        <translation type="vanished">Lækkert grønt skær. Alt ser ud til at være parat</translation>
     </message>
     <message>
         <source>It&apos;s got a nice yellow tint to it. There&apos;s more work to be done here</source>
-        <translation>Den har et flot gult skær over sig. Vi er ikke helt færdige her</translation>
+        <translation type="vanished">Den har et flot gult skær over sig. Vi er ikke helt færdige her</translation>
     </message>
     <message>
         <source>It&apos;s red. Indicating that something is not in it&apos;s right state</source>
-        <translation>Den er rød. Indikationen af at noget ikker er i den rigtige tilstand</translation>
+        <translation type="vanished">Den er rød. Indikationen af at noget ikker er i den rigtige tilstand</translation>
     </message>
 </context>
 <context>
     <name>6</name>
     <message>
         <source>Nah. Not really interesting</source>
-        <translation>Næh. Ikke rigtig interessant</translation>
+        <translation type="vanished">Næh. Ikke rigtig interessant</translation>
     </message>
     <message>
         <source>Not of any use</source>
-        <translation>Ikke brugbart</translation>
+        <translation type="vanished">Ikke brugbart</translation>
     </message>
     <message>
         <source>It&apos;s actually a bit warm in here</source>
-        <translation>Det er faktisk lidt varmt herinde</translation>
+        <translation type="vanished">Det er faktisk lidt varmt herinde</translation>
     </message>
     <message>
         <source>The door is locked...</source>
-        <translation>Døren er låst...</translation>
+        <translation type="vanished">Døren er låst...</translation>
     </message>
     <message>
         <source>The keypad to the right seem to be connected to the door</source>
-        <translation>Betjeningspanelet til højre ser ud til at være forbundet til døren</translation>
+        <translation type="vanished">Betjeningspanelet til højre ser ud til at være forbundet til døren</translation>
     </message>
     <message>
         <source>There&apos;s already poured liquid in this</source>
-        <translation>Der er allerede hældt væske i den her</translation>
+        <translation type="vanished">Der er allerede hældt væske i den her</translation>
     </message>
     <message>
         <source>... better not put %1 liquid in a blue pipe</source>
-        <translation>... vi må hellere undgå at hælde %1 væske i et blåt rør</translation>
+        <translation type="vanished">... vi må hellere undgå at hælde %1 væske i et blåt rør</translation>
     </message>
     <message>
         <source>The liquid is poured in now</source>
-        <translation>Væsken er hældt i nu</translation>
+        <translation type="vanished">Væsken er hældt i nu</translation>
     </message>
     <message>
         <source>... better not put %1 liquid in a purple pipe</source>
-        <translation>... vi må hellere undgå at hælde %1 væske i et lilla rør</translation>
+        <translation type="vanished">... vi må hellere undgå at hælde %1 væske i et lilla rør</translation>
     </message>
     <message>
         <source>All the purple juicy stuff is poured in now</source>
-        <translation>Alt det saftige lilla stads er hældt i nu</translation>
+        <translation type="vanished">Alt det saftige lilla stads er hældt i nu</translation>
     </message>
     <message>
         <source>... better not put %1 liquid in a red-ish pipe</source>
-        <translation>... vi må hellere undgå at hælde %1 væske i et rødligt rør</translation>
+        <translation type="vanished">... vi må hellere undgå at hælde %1 væske i et rødligt rør</translation>
     </message>
     <message>
         <source>All the red goo is poured in now</source>
-        <translation>Alt det røde stads er hældt i nu</translation>
+        <translation type="vanished">Alt det røde stads er hældt i nu</translation>
     </message>
     <message>
         <source>... better not put %1 liquid in a green pipe</source>
-        <translation>... vi må hellere undgå at hælde %1 væske i et grønt rør</translation>
+        <translation type="vanished">... vi må hellere undgå at hælde %1 væske i et grønt rør</translation>
     </message>
     <message>
         <source>...</source>
-        <translation>...</translation>
+        <translation type="vanished">...</translation>
     </message>
     <message>
         <source>All the contents are poured in</source>
-        <translation>Alt inndholdet er hældt i</translation>
+        <translation type="vanished">Alt inndholdet er hældt i</translation>
     </message>
     <message>
         <source>It&apos;s open!</source>
-        <translation>Den er åben!</translation>
+        <translation type="vanished">Den er åben!</translation>
     </message>
     <message>
         <source>A fancy colored keypad</source>
-        <translation>Et smart farvet betjeningspanel</translation>
+        <translation type="vanished">Et smart farvet betjeningspanel</translation>
     </message>
     <message>
         <source>not the right key combination</source>
-        <translation>ikke den rigtige kombination</translation>
+        <translation type="vanished">ikke den rigtige kombination</translation>
     </message>
     <message>
         <source>Open Sesame!</source>
-        <translation>Døren er åben!</translation>
+        <translation type="vanished">Døren er åben!</translation>
     </message>
     <message>
         <source>Green lights are good lights!</source>
-        <translation>Grønt lys er godt lys!</translation>
+        <translation type="vanished">Grønt lys er godt lys!</translation>
     </message>
     <message>
         <source>This must be the cable for the antenna</source>
-        <translation>Det her må være kablet til antennen</translation>
+        <translation type="vanished">Det her må være kablet til antennen</translation>
     </message>
     <message>
         <source>It leads to the roof</source>
-        <translation>Det fører op til loftet</translation>
+        <translation type="vanished">Det fører op til loftet</translation>
     </message>
     <message>
         <source>A fairly large bookcase. Very square</source>
-        <translation>En ret stor bogreol. Meget firkantet</translation>
+        <translation type="vanished">En ret stor bogreol. Meget firkantet</translation>
     </message>
     <message>
         <source>YES! THERE&apos;S OTHER SURVIVORS ON THE RADIO</source>
-        <translation>OPTUR! DER ER ANDRE OVERLEVENDE I RADIOEN</translation>
+        <translation type="vanished">OPTUR! DER ER ANDRE OVERLEVENDE I RADIOEN</translation>
     </message>
     <message>
         <source>HALLO!? CAN YOU HEAR ME!?</source>
-        <translation>HALLO!? KAN I HØRE MIG!?</translation>
+        <translation type="vanished">HALLO!? KAN I HØRE MIG!?</translation>
     </message>
     <message>
         <source>radio: *Loud and clear, over*</source>
-        <translation>radioen: *Højt og tydeligt. Skifter*</translation>
+        <translation type="vanished">radioen: *Højt og tydeligt. Skifter*</translation>
     </message>
     <message>
         <source>COME GET ME AT THE TOWER</source>
-        <translation>KOM OG HENT MIG VED TÅRNET</translation>
+        <translation type="vanished">KOM OG HENT MIG VED TÅRNET</translation>
     </message>
     <message>
         <source>radio: *We&apos;re sending a chopper, over*</source>
-        <translation>radioen: *Vi sender en helikopter. Skifter*</translation>
+        <translation type="vanished">radioen: *Vi sender en helikopter. Skifter*</translation>
     </message>
     <message>
         <source>AWESOME!, OVER!</source>
-        <translation>FANTASTISK! SKIFTER!</translation>
+        <translation type="vanished">FANTASTISK! SKIFTER!</translation>
     </message>
     <message>
         <source>Woohoo - they are coming for me!</source>
-        <translation>Hurraa - de kommer og henter mig!</translation>
+        <translation type="vanished">Hurraa - de kommer og henter mig!</translation>
     </message>
     <message>
         <source>I&apos;ll better hurry to the roof and wait for the chopper</source>
-        <translation>Jeg må hellere skynde mig op på taget og vente på helikopteren</translation>
+        <translation type="vanished">Jeg må hellere skynde mig op på taget og vente på helikopteren</translation>
     </message>
     <message>
         <source>There&apos;s only noise...</source>
-        <translation>Der er kun støj...</translation>
+        <translation type="vanished">Der er kun støj...</translation>
     </message>
     <message>
         <source>The indicator for &quot;LONG RANGE&quot; is off</source>
-        <translation>Indikatoren for &quot;LANGBØLJE&quot; er slået fra</translation>
+        <translation type="vanished">Indikatoren for &quot;LANGBØLJE&quot; er slået fra</translation>
     </message>
     <message>
         <source>You&apos;d need a powered antenna to call for help</source>
-        <translation>Du har brug for en forstærket antenne for at kalde efter hjælp</translation>
+        <translation type="vanished">Du har brug for en forstærket antenne for at kalde efter hjælp</translation>
     </message>
     <message>
         <source>More problems than solutions I guess</source>
-        <translation>Flere problemer end løsninger vil jeg gætte på</translation>
+        <translation type="vanished">Flere problemer end løsninger vil jeg gætte på</translation>
     </message>
     <message>
         <source>Help is on the way - I better get to the roof!</source>
-        <translation>Hjælpen er på vej - jeg må hellere komme op på taget!</translation>
+        <translation type="vanished">Hjælpen er på vej - jeg må hellere komme op på taget!</translation>
     </message>
     <message>
         <source>A fine lava lamp. It&apos;s not working</source>
-        <translation>En fin lavalampe. Den virker ikke</translation>
+        <translation type="vanished">En fin lavalampe. Den virker ikke</translation>
     </message>
     <message>
         <source>A frontpage from the newspaper when the apocalypse got real</source>
-        <translation>En forside fra avisen fra da apokalypsen blev alvor</translation>
+        <translation type="vanished">En forside fra avisen fra da apokalypsen blev alvor</translation>
     </message>
     <message>
         <source>Books, books, books. I&apos;m looking for a good time</source>
-        <translation>Bøger, bøger, bøger. Hvor har I dog været i mit liv</translation>
+        <translation type="vanished">Bøger, bøger, bøger. Hvor har I dog været i mit liv</translation>
     </message>
     <message>
         <source>A shelf full of books</source>
-        <translation>En hylde fyldt med bøger</translation>
+        <translation type="vanished">En hylde fyldt med bøger</translation>
     </message>
     <message>
         <source>A small pile of very uninteresting papers</source>
-        <translation>En lille bunke, meget, uinteressante papirer</translation>
+        <translation type="vanished">En lille bunke, meget, uinteressante papirer</translation>
     </message>
     <message>
         <source>A fuel cell</source>
-        <translation>Et batteri</translation>
+        <translation type="vanished">Et batteri</translation>
     </message>
     <message>
         <source>The two pieces fit perfectly together</source>
-        <translation>De to stykker passer perfekt sammen</translation>
+        <translation type="vanished">De to stykker passer perfekt sammen</translation>
     </message>
     <message>
         <source>green</source>
-        <translation>grøn</translation>
+        <translation type="vanished">grøn</translation>
     </message>
     <message>
         <source>red</source>
-        <translation>rød</translation>
+        <translation type="vanished">rød</translation>
     </message>
     <message>
         <source>blue</source>
-        <translation>blå</translation>
+        <translation type="vanished">blå</translation>
     </message>
     <message>
         <source>purple</source>
-        <translation>lilla</translation>
+        <translation type="vanished">lilla</translation>
     </message>
 </context>
 <context>
     <name>7</name>
     <message>
         <source>Nah. Not really interesting</source>
-        <translation>Næh. Ikke rigtig interessant</translation>
+        <translation type="vanished">Næh. Ikke rigtig interessant</translation>
     </message>
     <message>
         <source>Not of any use</source>
-        <translation>Ikke brugbart</translation>
+        <translation type="vanished">Ikke brugbart</translation>
     </message>
     <message>
         <source>It&apos;s actually a bit warm in here</source>
-        <translation>Det er faktisk lidt varmt herinde</translation>
+        <translation type="vanished">Det er faktisk lidt varmt herinde</translation>
     </message>
     <message>
         <source>Brilliant. The rope is firmly tied to the hook</source>
-        <translation>Genialt. Rebet er bundet fast til krogen</translation>
+        <translation type="vanished">Genialt. Rebet er bundet fast til krogen</translation>
     </message>
     <message>
         <source>Hmm... If we tied something to the hook...</source>
-        <translation>Hmm... Hvis vi nu bandt noget til krogen...</translation>
+        <translation type="vanished">Hmm... Hvis vi nu bandt noget til krogen...</translation>
     </message>
     <message>
         <source>...</source>
-        <translation>...</translation>
+        <translation type="vanished">...</translation>
     </message>
 </context>
 <context>
     <name>8</name>
     <message>
         <source>...</source>
-        <translation>...</translation>
+        <translation type="vanished">...</translation>
     </message>
     <message>
         <source>Something is wrong</source>
-        <translation>Der er noget galt</translation>
+        <translation type="vanished">Der er noget galt</translation>
     </message>
     <message>
         <source>I can feel it</source>
-        <translation>Jeg kan fornemme det</translation>
+        <translation type="vanished">Jeg kan fornemme det</translation>
     </message>
     <message>
         <source>I can hear zombies</source>
-        <translation>Jeg kan høre zombier</translation>
+        <translation type="vanished">Jeg kan høre zombier</translation>
     </message>
     <message>
         <source>A lot of zombies!</source>
-        <translation>Mange zombier!</translation>
+        <translation type="vanished">Mange zombier!</translation>
     </message>
     <message>
         <source>HA! First blood!</source>
-        <translation>HA! I første huk!</translation>
+        <translation type="vanished">HA! I første huk!</translation>
     </message>
     <message>
         <source>Right on!</source>
-        <translation>Sådan!</translation>
+        <translation type="vanished">Sådan!</translation>
     </message>
     <message>
         <source>BOOM baby!</source>
-        <translation>BUM BUM min ven!</translation>
+        <translation type="vanished">BUM BUM min ven!</translation>
     </message>
     <message>
         <source>Out of my way!</source>
-        <translation>Fjern dig!</translation>
+        <translation type="vanished">Fjern dig!</translation>
     </message>
     <message>
         <source>Oh my...</source>
-        <translation>Åh åh...</translation>
+        <translation type="vanished">Åh åh...</translation>
     </message>
     <message>
         <source>They keep showing up!</source>
-        <translation>De bliver ved med at strømme til!</translation>
+        <translation type="vanished">De bliver ved med at strømme til!</translation>
     </message>
     <message>
         <source>Take that you creep!</source>
-        <translation>Tag den dit uhyre!</translation>
+        <translation type="vanished">Tag den dit uhyre!</translation>
     </message>
     <message>
         <source>I can hear the chopper in the distance!</source>
-        <translation>Jeg kan høre helikopteren i det fjerne!</translation>
+        <translation type="vanished">Jeg kan høre helikopteren i det fjerne!</translation>
     </message>
     <message>
         <source>That&apos;s definitely the antenna dish for the radio</source>
-        <translation>Det er helt sikkert parabolmodtageren til radioen</translation>
+        <translation type="vanished">Det er helt sikkert parabolmodtageren til radioen</translation>
     </message>
     <message>
         <source>The box has a socket. It could be something like an external power supply for the antenna</source>
-        <translation>Boksen har et stik. Det kunne godt være noget i stil med en ekstern strømforsyning</translation>
+        <translation type="vanished">Boksen har et stik. Det kunne godt være noget i stil med en ekstern strømforsyning</translation>
     </message>
     <message>
         <source>Maybe to give it extra range?</source>
-        <translation>Måske for at give den ekstra rækkevide?</translation>
+        <translation type="vanished">Måske for at give den ekstra rækkevide?</translation>
     </message>
     <message>
         <source>The fuel cell is connected</source>
-        <translation>Batteriet er forbundet</translation>
+        <translation type="vanished">Batteriet er forbundet</translation>
     </message>
     <message>
         <source>This should give the radio some extra range</source>
-        <translation>Dette burde give radioen noget ekstra rækkevide</translation>
+        <translation type="vanished">Dette burde give radioen noget ekstra rækkevide</translation>
     </message>
     <message>
         <source>Good work survivour. The antenna is now powered. This should give some extra range</source>
-        <translation>Godt arbejde. Radioen er nu aktiv. Det burde give lidt ekstra rækkevide</translation>
+        <translation type="vanished">Godt arbejde. Radioen er nu aktiv. Det burde give lidt ekstra rækkevide</translation>
     </message>
     <message>
         <source>The fuel cell is out of power. It&apos;ll be hard to get it charged under these circumstances</source>
-        <translation>Batteriet er løbet tør for strøm. Det bliver svært at få genopladt i de her omgivelser</translation>
+        <translation type="vanished">Batteriet er løbet tør for strøm. Det bliver svært at få genopladt i de her omgivelser</translation>
     </message>
     <message>
         <source>The end!</source>
-        <translation>SLUT</translation>
+        <translation type="vanished">SLUT</translation>
     </message>
     <message>
         <source>The zombies are coming!&lt;br&gt;Furtunately you have your shotgun!&lt;br&gt;&lt;br&gt;Tab on the zombies to shot them&lt;br&gt; - SHOOT THEM ALL -</source>
-        <translation>Zombierne kommer!&lt;br&gt;Heldigvis har du din shotgun!&lt;br&gt;&lt;br&gt;Klik på zombierne for at skyde dem&lt;br&gt; - SKYD DEM ALLE -</translation>
+        <translation type="vanished">Zombierne kommer!&lt;br&gt;Heldigvis har du din shotgun!&lt;br&gt;&lt;br&gt;Klik på zombierne for at skyde dem&lt;br&gt; - SKYD DEM ALLE -</translation>
     </message>
     <message>
         <source>SUCK ON THIS!</source>
-        <translation>SUT PÅ DEN HER!</translation>
+        <translation type="vanished">SUT PÅ DEN HER!</translation>
     </message>
     <message>
         <source>EAT LEAD!</source>
-        <translation>ÆD BLY!</translation>
+        <translation type="vanished">ÆD BLY!</translation>
     </message>
     <message>
         <source>A horde of zombies are coming!&lt;br&gt;You&apos;ll need something to protect yourself!&lt;br&gt;See if you can find something in the tower!</source>
-        <translation>En hoorde af zombier kommer efter dig!&lt;br&gt;Du må finde noget at beskytte dig selv med!&lt;br&gt;Se om ikke du kan finde noget i tårnet et sted!</translation>
+        <translation type="vanished">En hoorde af zombier kommer efter dig!&lt;br&gt;Du må finde noget at beskytte dig selv med!&lt;br&gt;Se om ikke du kan finde noget i tårnet et sted!</translation>
     </message>
     <message>
         <source>YES - OK</source>
-        <translation>JA - OK</translation>
+        <translation type="vanished">JA - OK</translation>
     </message>
     <message>
         <source>YES!</source>
-        <translation>JA!</translation>
+        <translation type="vanished">JA!</translation>
     </message>
 </context>
 <context>
@@ -906,10 +906,6 @@
     </message>
     <message>
         <source>2016-2017</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Version %1 (%2), Qak %3 (%4), Qt %5</source>
         <translation></translation>
     </message>
     <message>
@@ -974,12 +970,9 @@
         <source>See our &lt;a href=&quot;//blackgrain.dk/privacy.html&quot;&gt;privacy policy&lt;/a&gt; for info on how we handle the data.</source>
         <translation>Se vores &lt;a href=&quot;//blackgrain.dk/privacy.html&quot;&gt;privatlivspolitik&lt;/a&gt; for mere information om hvordan vi hånderer dataen.</translation>
     </message>
-</context>
-<context>
-    <name>ApplicationWindow</name>
     <message>
-        <source>Qak (%1x%2)</source>
-        <translation></translation>
+        <source>Version %1 (%2), Qak %3 (%4), QtFirebase %5 (%6), Qt %7</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -997,7 +990,7 @@
     <name>Console</name>
     <message>
         <source>Send</source>
-        <translation>Send</translation>
+        <translation type="vanished">Send</translation>
     </message>
 </context>
 <context>
@@ -1145,92 +1138,92 @@
     <name>Main</name>
     <message>
         <source>Language</source>
-        <translation>Sprog</translation>
+        <translation type="vanished">Sprog</translation>
     </message>
     <message>
         <source>About</source>
-        <translation>Om spillet</translation>
+        <translation type="vanished">Om spillet</translation>
     </message>
     <message>
         <source>Credits</source>
-        <translation>Rulletekster</translation>
+        <translation type="vanished">Rulletekster</translation>
     </message>
     <message>
         <source>Start</source>
-        <translation>Start</translation>
+        <translation type="vanished">Start</translation>
     </message>
     <message>
         <source>How to play</source>
-        <translation>Instruktioner</translation>
+        <translation type="vanished">Instruktioner</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation>Nulstil</translation>
+        <translation type="vanished">Nulstil</translation>
     </message>
     <message>
         <source>This action will erase all game progress.
 Continue?</source>
-        <translation>Denne handling vil slette alle gemte indstillinger
+        <translation type="vanished">Denne handling vil slette alle gemte indstillinger
 Fortsæt?</translation>
     </message>
     <message>
         <source>Game reset successfully</source>
-        <translation>Spillet blev nulstillet korrekt</translation>
+        <translation type="vanished">Spillet blev nulstillet korrekt</translation>
     </message>
 </context>
 <context>
     <name>Pause</name>
     <message>
         <source>Resume</source>
-        <translation>Fortsæt</translation>
+        <translation type="vanished">Fortsæt</translation>
     </message>
     <message>
         <source>Menu</source>
-        <translation>Hovedmenu</translation>
+        <translation type="vanished">Hovedmenu</translation>
     </message>
     <message>
         <source>Exit</source>
-        <translation>Afslut</translation>
+        <translation type="vanished">Afslut</translation>
     </message>
 </context>
 <context>
     <name>Tutorial</name>
     <message>
         <source>Welcome survivor&lt;br&gt;This is how you&lt;br&gt;play the game</source>
-        <translation>Velkommen overlevende&lt;br&gt;Dette viser hvordan du&lt;br&gt;spiller spillet</translation>
+        <translation type="vanished">Velkommen overlevende&lt;br&gt;Dette viser hvordan du&lt;br&gt;spiller spillet</translation>
     </message>
     <message>
         <source>Tab on objects&lt;br&gt;to examine them</source>
-        <translation>Tryk på genstandende&lt;br&gt;for at undersøge dem</translation>
+        <translation type="vanished">Tryk på genstandende&lt;br&gt;for at undersøge dem</translation>
     </message>
     <message>
         <source>Good job!</source>
-        <translation>Godt arbejde!</translation>
+        <translation type="vanished">Godt arbejde!</translation>
     </message>
     <message>
         <source>Tab once on objects&lt;br&gt;to pick them up</source>
-        <translation>Tryk en enkelt gang på genstandende&lt;br&gt;for at samle dem op</translation>
+        <translation type="vanished">Tryk en enkelt gang på genstandende&lt;br&gt;for at samle dem op</translation>
     </message>
     <message>
-        <source>Objects you have&lt;br&gt;picked up is in&lt;br&gt;your inventory...</source>
-        <translation>Genstande du har&lt;br&gt;samlet op er i&lt;br&gt;din rygsæk...</translation>
+        <source>Objects you have&lt;br&gt;picked up are in&lt;br&gt;your inventory...</source>
+        <translation type="vanished">Genstande du har&lt;br&gt;samlet op er i&lt;br&gt;din rygsæk...</translation>
     </message>
     <message>
         <source>To use objects&lt;br&gt;hold and drag them&lt;br&gt;from the inventory to the room&lt;br&gt;(place the zombie doll on the box)</source>
-        <translation>For at bruge genstandende&lt;br&gt;hold og træk dem&lt;br&gt; fra rygsækken til rummet&lt;br&gt;(prøv at placere zombiedukken på kassen)</translation>
+        <translation type="vanished">For at bruge genstandende&lt;br&gt;hold og træk dem&lt;br&gt; fra rygsækken til rummet&lt;br&gt;(prøv at placere zombiedukken på kassen)</translation>
     </message>
     <message>
         <source>That&apos;s basically it!&lt;br&gt;Now try and put the wiener&lt;br&gt;on the doll&apos;s head!</source>
-        <translation>Det er stortset det!&lt;br&gt;Prøv nu at putte pølsen&lt;br&gt;på dukkens hoved!</translation>
+        <translation type="vanished">Det er stortset det!&lt;br&gt;Prøv nu at putte pølsen&lt;br&gt;på dukkens hoved!</translation>
     </message>
     <message>
         <source>Good job!&lt;br&gt;You have completed the tutorial!&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;red&quot;&gt;NOW TRY THE REAL DEAL&lt;/font&gt;</source>
-        <translation>Godt arbejde!&lt;br&gt;Du har gennemført instruktionerne!&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;red&quot;&gt;PRØV DEN ÆGTE VARE!&lt;/font&gt;</translation>
+        <translation type="vanished">Godt arbejde!&lt;br&gt;Du har gennemført instruktionerne!&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;red&quot;&gt;PRØV DEN ÆGTE VARE!&lt;/font&gt;</translation>
     </message>
     <message>
         <source>Continue</source>
         <extracomment>On a button</extracomment>
-        <translation>Fortsæt</translation>
+        <translation type="vanished">Fortsæt</translation>
     </message>
 </context>
 <context>

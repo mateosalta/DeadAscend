@@ -1,0 +1,16 @@
+{
+    "name": "deadascend.mateo-salta",
+    "description": "A hand-drawn, open source, point'n'click-like 2D adventure game written in Qt/QML and Javascript.",
+    "architecture": "arm64",
+    "title": "deadascend",
+    "hooks": {
+        "deadascend": {
+            "apparmor": "DeadAscend.apparmor",
+            "desktop":  "DeadAscend.desktop"
+        }
+    },
+    "version": "1.0",
+    "maintainer": "Mateo Salta <mateo_salta@yahoo.com>",
+    "framework" : "ubuntu-sdk-16.04.5"
+}
+

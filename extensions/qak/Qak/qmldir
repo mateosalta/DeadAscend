@@ -1,0 +1,29 @@
+module Qak
+
+singleton Qak 1.0 Qak.qml
+
+Log 1.0 Log.qml
+
+AssetSizeController 1.0 AssetSizeController.qml
+View 1.0 View.qml
+Viewport 1.0 Viewport.qml
+AdaptiveSource 1.0 AdaptiveSource.qml
+Application 1.0 Application.qml
+Application 2.0 Application_2_0.qml
+DebugVisual 1.0 DebugVisual.qml
+Entity 1.0 Entity.qml
+Events 1.0 Events.qml
+GridMouseArea 1.0 GridMouseArea.qml
+MouseRotator 1.0 MouseRotator.qml
+RoundMouseArea 1.0 RoundMouseArea.qml
+PolygonMouseArea 1.0 PolygonMouseArea.qml
+Mover 1.0 Mover.qml
+ImageAnimation 1.0 ImageAnimation.qml
+ItemAnimation 1.0 ItemAnimation.qml
+WalkMap 1.0 WalkMap.qml
+SoundBank 1.0 SoundBank.qml
+QakObject 1.0 QakObject.qml
+
+# Test
+Node 1.0 Node.qml
+
