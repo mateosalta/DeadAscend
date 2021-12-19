@@ -10,61 +10,42 @@ A hand-drawn, open source, point'n'click-like 2D adventure game written in Qt/QM
 
 ## Quick start
 
-[Black Grain Games](http://games.blackgrain.dk/) are providing pre-build, ad-based, mobile and tablet versions.
 
- - [Android (Google Play)](https://play.google.com/store/apps/details?id=com.blackgrain.android.deadascend.ad)
- - [iOS (Apple App Store)](https://itunes.apple.com/us/app/dead-ascend/id1197443665?ls=1&mt=8)
-
-By playing the pre-build versions above you are supporting my (indie) game productions.
-
-Dead Ascend is now also available pre-build for [Linux, MacOS and Windows on itch.io](https://blackgrain.itch.io/dead-ascend)
+[![OpenStore](https://open-store.io/badges/en_US.svg)](https://open-store.io/app/deadascend.mateo-salta)
 
 ## DIY Building
 
+ update_ut_readme
 You can build the game from command line or with [Qt Creator](https://www.qt.io/ide/). QtCreator usually comes bundled with [Qt](https://www.qt.io). It can be downloaded and installed in various ways so please refer to Qt homepage and documentation on howto get Qt Creator.
 
 If you do have [clickable](https://clickable-ut.dev/en/latest/) installed, you can start QtCreator by running `clickable ide qtcreator` in the apps main folder.
 
 Once you have a fully working Qt/Qt Creator setup - you are ready to checkout and build "Dead Ascend".
+=======
 
 1. Get codebase from GitHub
 
    ```
    cd /path/to/projects
-   git clone https://github.com/Larpon/DeadAscend.git
-   ```
-2. Install project dependencies
-
-   ```
-   cd /path/to/projects/DeadAscend/extensions/
-   git clone https://github.com/Larpon/qak.git
-   git clone https://github.com/Larpon/QtFirebase.git
+   git clone https://github.com/mateosalta/DeadAscend.git
+   git checkout ut
    ```
 
-   **NOTE**<br>
-   If you are building for Android and/or iOS you also need to setup [QtFirebase](https://github.com/Larpon/QtFirebase).
-   Instructions and a working example is available [here](https://github.com/Larpon/QtFirebaseExample).
 
 3. Build
 
-   a. Qt Creator
 
-      - Open `/path/to/projects/DeadAscend/DeadAscend.pro` in Qt Creator
-      - Choose your kit(s)
-      - Add custom process step to build profile: Projects -> Build -> Build steps -> `/usr/bin/make` / `assetsrcc` / `%{buildDir}/App`
-      ![Extra make target](https://raw.githubusercontent.com/Larpon/DeadAscend/master/docs/img/QtCreatorProjectMakeStep.png)
-      - Hit "Run"
 
-   b. Command line
+    Command line
+   
+ - Run clickable for your arch in the main project folder
 
       ```
-      cd /path/to/DeadAscend
-      # BIN_DIR and ASSETS_DIR are optional
-      qmake -r "BIN_DIR=/usr/bin" "ASSETS_DIR=/usr/share/deadascend"
-      make assetsrcc -C App
-      make
-      make install
+      clickable
+      clickable --arch=arm64
+      clickable --arch=amd64
       ```
+update_ut_readme
       You can now run `./App/DeadAscend` - or if you used `BIN_DIR`: `/usr/bin/DeadAscend`
 
 ## Translation
@@ -84,7 +65,6 @@ Once you have a fully working Qt/Qt Creator setup - you are ready to checkout an
     - QtCreator
         - configure Linguist: Tools -> Options -> Environment -> Linguist -> lupdate, set Arguments to 'App/App.pro -ts App/translations/*.ts'
         - run lupdate: Tools->External->Linguist->update translations(lupdate)
-
     b. to update ts-files
     - terminal: linguist App/translations/DeadAscend_*.ts
     - QtLinguist: done automatically, according to [manual](https://doc.qt.io/qt-5/linguist-manager.html)
@@ -112,3 +92,14 @@ If you're having trouble with QtFirebase please open an issue on the [QtFirebase
 ## Other game projects
 
 [non - The First Warp](https://store.steampowered.com/app/761730)
+=======
+      
+   clickable will error on 'manifest.json not found'
+   
+  - Copy the binary file from the build folder to /App/platforms/ubuntutouch/DeadAscend
+  - Run clickable for your arch within /App/platforms/ubuntutouch
+     
+     
+
+- qtfirebase is 'stub' implementation only on 'other platforms' so it is left unconfigured and will not show ads
+
