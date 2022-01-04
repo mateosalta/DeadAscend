@@ -101,6 +101,10 @@ Item {
                     }
                     if(App.language === "de") {
                         App.language = "en"
+                        return                  
+                    }
+                    if(App.language === "nl") {
+                        App.language = "en"
                         return
                     }
                 }
