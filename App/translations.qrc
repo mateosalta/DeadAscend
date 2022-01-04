@@ -5,5 +5,6 @@
         <file>translations/DeadAscend_en.qm</file>
         <file>translations/DeadAscend_es.qm</file>
         <file>translations/DeadAscend_de.qm</file>
+        <file>translations/DeadAscend_nl.qm</file>
     </qresource>
 </RCC>
