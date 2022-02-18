@@ -162,6 +162,17 @@ Item {
                         onClicked: App.language = "de"
                     }
                 }
+
+                Image {
+                    height: 20
+                    fillMode: Image.PreserveAspectFit
+                    source: App.getAsset('flags/nl.png')
+                    opacity: (App.language === "nl") ? 1 : 0.3
+                    MouseArea {
+                        anchors { fill: parent }
+                        onClicked: App.language = "de"
+                    }
+                }
             }
 
             TextButton {
