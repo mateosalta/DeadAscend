@@ -170,7 +170,31 @@ Rectangle {
             script: {
                 text.text = qsTr("
                 German translation<br>
-                Danfro
+                Martha and Daniel Frost
+                ")
+                text.opacity = 1
+            }
+        }
+        
+        PauseAnimation {
+            duration: 6000
+        }
+
+        ScriptAction {
+            script: {
+                text.opacity = 0
+            }
+        }
+
+        PauseAnimation {
+            duration: 2000
+        }
+
+        ScriptAction {
+            script: {
+                text.text = qsTr("
+                Dutch translation<br>
+                Heimen Stoffels 
                 ")
                 text.opacity = 1
             }
